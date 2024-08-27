@@ -1,0 +1,1093 @@
+[
+  {
+    "question": "He ------ a boy.",
+    "answers": [
+      "is",
+      "was",
+      "will be"
+    ],
+    "correctAnswer": "is"
+  },
+  {
+    "question": "I ------ a student.",
+    "answers": [
+      "am",
+      "was",
+      "will be"
+    ],
+    "correctAnswer": "am"
+  },
+  {
+    "question": "They ------ friends.",
+    "answers": [
+      "are",
+      "were",
+      "will be"
+    ],
+    "correctAnswer": "are"
+  },
+  {
+    "question": "She ------ a doctor.",
+    "answers": [
+      "is",
+      "was",
+      "will be"
+    ],
+    "correctAnswer": "is"
+  },
+  {
+    "question": "We ------ happy.",
+    "answers": [
+      "are",
+      "were",
+      "will be"
+    ],
+    "correctAnswer": "are"
+  },
+  {
+    "question": "I ------ a student last year.",
+    "answers": [
+      "am",
+      "was",
+      "had been"
+    ],
+    "correctAnswer": "was"
+  },
+  {
+    "question": "They ------ friends for a long time.",
+    "answers": [
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": "have been"
+  },
+  {
+    "question": "She ------ a doctor in the future.",
+    "answers": [
+      "is",
+      "will be",
+      "has been"
+    ],
+    "correctAnswer": "will be"
+  },
+  {
+    "question": "We ------ happy tomorrow.",
+    "answers": [
+      "are",
+      "will be",
+      "have been"
+    ],
+    "correctAnswer": "will be"
+  },
+  {
+    "question": "They ------ dinner last night.",
+    "answers": [
+      "cooked",
+      "will cook",
+      "have cooked"
+    ],
+    "correctAnswer": "cooked"
+  },
+  {
+    "question": "I ------ my homework now.",
+    "answers": [
+      "am doing",
+      "did",
+      "will do"
+    ],
+    "correctAnswer": "am doing"
+  },
+  {
+    "question": "He ------ a new car next week.",
+    "answers": [
+      "will buy",
+      "bought",
+      "has bought"
+    ],
+    "correctAnswer": "will buy"
+  },
+  {
+    "question": "We ------ the movie already.",
+    "answers": [
+      "have watched",
+      "watched",
+      "will watch"
+    ],
+    "correctAnswer": "have watched"
+  },
+  {
+    "question": "She ------ English for five years.",
+    "answers": [
+      "has learned",
+      "learned",
+      "will learn"
+    ],
+    "correctAnswer": "has learned"
+  },
+  {
+    "question": "They ------ to the beach tomorrow.",
+    "answers": [
+      "will go",
+      "went",
+      "have gone"
+    ],
+    "correctAnswer": "will go"
+  },
+  {
+    "question": "I ------ my friend last week.",
+    "answers": [
+      "visited",
+      "will visit",
+      "have visited"
+    ],
+    "correctAnswer": "visited"
+  },
+  {
+    "question": "She ------ her job next month.",
+    "answers": [
+      "will quit",
+      "quit",
+      "has quit"
+    ],
+    "correctAnswer": "will quit"
+  },
+  {
+    "question": "We ------ for two hours.",
+    "answers": [
+      "have been waiting",
+      "waited",
+      "will wait"
+    ],
+    "correctAnswer": "have been waiting"
+  },
+  {
+    "question": "They ------ to the party last night.",
+    "answers": [
+      "went",
+      "will go",
+      "have gone"
+    ],
+    "correctAnswer": "went"
+  },
+  {
+    "question": "She ------ to the store yesterday.",
+    "answers": ["go", "went", "will go"],
+    "correctAnswer": "went"
+  },
+  {
+    "question": "I ------ for three hours.",
+    "answers": ["have studied", "studied", "will study"],
+    "correctAnswer": "have studied"
+  },
+  {
+    "question": "They ------ the movie last night.",
+    "answers": ["watch", "watched", "will watch"],
+    "correctAnswer": "watched"
+  },
+  {
+    "question": "He ------ a book right now.",
+    "answers": ["read", "reads", "is reading"],
+    "correctAnswer": "is reading"
+  },
+  {
+    "question": "We ------ to the party tomorrow.",
+    "answers": ["go", "went", "will go"],
+    "correctAnswer": "will go"
+  },
+  {
+    "question": "She ------ her homework already.",
+    "answers": ["finished", "finishes", "will finish"],
+    "correctAnswer": "finished"
+  },
+  {
+    "question": "I ------ him yesterday.",
+    "answers": ["see", "saw", "will see"],
+    "correctAnswer": "saw"
+  },
+  {
+    "question": "They ------ in the park right now.",
+    "answers": ["play", "played", "are playing"],
+    "correctAnswer": "are playing"
+  },
+  {
+    "question": "He ------ to the concert next week.",
+    "answers": ["goes", "went", "will go"],
+    "correctAnswer": "will go"
+  },
+  {
+    "question": "She ------ her car this morning.",
+    "answers": ["washes", "washed", "will wash"],
+    "correctAnswer": "washed"
+  },
+  {
+    "question": "I ------ to the gym every day.",
+    "answers": ["go", "went", "will go"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "They ------ dinner at a restaurant yesterday.",
+    "answers": ["have", "had", "will have"],
+    "correctAnswer": "had"
+  },
+  {
+    "question": "He ------ English for five years.",
+    "answers": ["learn", "learned", "has learned"],
+    "correctAnswer": "has learned"
+  },
+  {
+    "question": "She ------ her dog this morning.",
+    "answers": ["walk", "walked", "will walk"],
+    "correctAnswer": "walked"
+  },
+  {
+    "question": "I ------ the movie last night.",
+    "answers": ["watch", "watched", "will watch"],
+    "correctAnswer": "watched"
+  },
+  {
+    "question": "They ------ a party tomorrow.",
+    "answers": ["have", "had", "will have"],
+    "correctAnswer": "will have"
+  },
+  {
+    "question": "He ------ his sister yesterday.",
+    "answers": ["visit", "visited", "will visit"],
+    "correctAnswer": "visited"
+  },
+  {
+    "question": "She ------ her exam next week.",
+    "answers": ["take", "took", "will take"],
+    "correctAnswer": "will take"
+  },
+  {
+    "question": "I ------ a book right now.",
+    "answers": ["read", "reads", "am reading"],
+    "correctAnswer": "am reading"
+  },
+  {
+    "question": "They ------ a concert last night.",
+    "answers": ["see", "saw", "will see"],
+    "correctAnswer": "saw"
+  },
+  {
+    "question": "He ------ to the beach next month.",
+    "answers": ["goes", "went", "will go"],
+    "correctAnswer": "will go"
+  },
+  {
+    "question": "She ------ her homework already.",
+    "answers": ["finish", "finished", "will finish"],
+    "correctAnswer": "finished"
+  },
+  {
+    "question": "I ------ him yesterday.",
+    "answers": ["see", "saw", "will see"],
+    "correctAnswer": "saw"
+  },
+  {
+    "question": "They ------ in the garden right now.",
+    "answers": ["play", "played", "are playing"],
+    "correctAnswer": "are playing"
+  },
+  {
+    "question": "He ------ to the party next week.",
+    "answers": ["goes", "went", "will go"],
+    "correctAnswer": "will go"
+  },
+  {
+    "question": "She ------ her car this morning.",
+    "answers": ["washes", "washed", "will wash"],
+    "correctAnswer": "washed"
+  },
+  {
+    "question": "I ------ to the gym three times a week.",
+    "answers": ["go", "went", "will go"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "They ------ dinner at a restaurant last night.",
+    "answers": ["have", "had", "will have"],
+    "correctAnswer": "had"
+  },
+  {
+    "question": "He ------ English for ten years.",
+    "answers": ["learn", "learned", "has learned"],
+    "correctAnswer": "has learned"
+  },
+  {
+    "question": "She ------ her dog this morning.",
+    "answers": ["walk", "walked", "will walk"],
+    "correctAnswer": "walked"
+  },
+  {
+    "question": "I ------ the movie last night.",
+    "answers": ["watch", "watched", "will watch"],
+    "correctAnswer": "watched"
+  },
+  {
+    "question": "They ------ a party next month.",
+    "answers": ["have", "had", "will have"],
+    "correctAnswer": "will have"
+  },
+  {
+    "question": "He ------ his sister yesterday.",
+    "answers": ["visit", "visited", "will visit"],
+    "correctAnswer": "visited"
+  },
+  {
+    "question": "She ------ her exam next week.",
+    "answers": ["take", "took", "will take"],
+    "correctAnswer": "will take"
+  },
+  {
+    "question": "I ------ a book right now.",
+    "answers": ["read", "reads", "am reading"],
+    "correctAnswer": "am reading"
+  },
+  {
+    "question": "They ------ a concert last night.",
+    "answers": ["see", "saw", "will see"],
+    "correctAnswer": "saw"
+  },
+  {
+    "question": "He ------ to the beach next month.",
+    "answers": ["goes", "went", "will go"],
+    "correctAnswer": "will go"
+  },
+  {
+    "question": "She ------ her homework already.",
+    "answers": ["finish", "finished", "will finish"],
+    "correctAnswer": "finished"
+  },
+  {
+    "question": "I ------ him yesterday.",
+    "answers": ["see", "saw", "will see"],
+    "correctAnswer": "saw"
+  },
+  {
+    "question": "They ------ in the garden right now.",
+    "answers": ["play", "played", "are playing"],
+    "correctAnswer": "are playing"
+  },
+  {
+    "question": "He ------ to the party next week.",
+    "answers": ["goes", "went", "will go"],
+    "correctAnswer": "will go"
+  },
+  {
+    "question": "She ------ her car this morning.",
+    "answers": ["washes", "washed", "will wash"],
+    "correctAnswer": "washed"
+  },
+  {
+    "question": "I ------ to the gym three times a week.",
+    "answers": ["go", "went", "will go"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "They ------ dinner at a restaurant last night.",
+    "answers": ["have", "had", "will have"],
+    "correctAnswer": "had"
+  },
+  {
+    "question": "He ------ English for ten years.",
+    "answers": ["learn", "learned", "has learned"],
+    "correctAnswer": "has learned"
+  },
+  {
+    "question": "She ------ her dog this morning.",
+    "answers": ["walk", "walked", "will walk"],
+    "correctAnswer": "walked"
+  },
+  {
+    "question": "I ------ the movie last night.",
+    "answers": ["watch", "watched", "will watch"],
+    "correctAnswer": "watched"
+  },
+  {
+    "question": "They ------ a party next month.",
+    "answers": ["have", "had", "will have"],
+    "correctAnswer": "will have"
+  },
+  {
+    "question": "He ------ his sister yesterday.",
+    "answers": ["visit", "visited", "will visit"],
+    "correctAnswer": "visited"
+  },
+  {
+    "question": "She ------ her exam next week.",
+    "answers": ["take", "took", "will take"],
+    "correctAnswer": "will take"
+  },
+  {
+     "question": "What is the correct form of the verb 'to be' in the present tense for the pronoun 'I'?",
+     "answers": ["am", "is", "are"],
+     "correctAnswer": "am"
+   },
+   {
+     "question": "Which of the following is a coordinating conjunction?",
+     "answers": ["and", "because", "although"],
+     "correctAnswer": "and"
+   },
+   {
+     "question": "What is the correct superlative form of the adjective 'good'?",
+     "answers": ["better", "gooder", "best"],
+     "correctAnswer": "best"
+   },
+   {
+     "question": "Choose the correct sentence: They're going to ________ party.",
+     "answers": ["there", "the", "they're"],
+     "correctAnswer": "the"
+   },
+   {
+     "question": "Which of the following is a preposition?",
+     "answers": ["quickly", "happy", "under"],
+     "correctAnswer": "under"
+   },
+   {
+     "question": "Identify the correct sentence: I should ________ studied for the exam.",
+     "answers": ["have", "has", "had"],
+     "correctAnswer": "have"
+   },
+   {
+     "question": "What is the plural form of 'child'?",
+     "answers": ["childs", "childes", "children"],
+     "correctAnswer": "children"
+   },
+   {
+     "question": "Which word is a pronoun? ________ went to the store.",
+     "answers": ["He", "Run", "Fast"],
+     "correctAnswer": "He"
+   },
+   {
+     "question": "What is the correct past tense form of the verb 'eat'?",
+     "answers": ["eated", "ate", "eaten"],
+     "correctAnswer": "ate"
+   },
+   {
+     "question": "Choose the correct sentence: She ________ going to the park.",
+     "answers": ["is", "am", "are"],
+     "correctAnswer": "is"
+   },
+   {
+     "question": "Which of the following is a comparative adjective?",
+     "answers": ["happily", "happy", "happier"],
+     "correctAnswer": "happier"
+   },
+   {
+     "question": "What is the antonym of 'brave'?",
+     "answers": ["strong", "fearful", "kind"],
+     "correctAnswer": "fearful"
+   },
+   {
+     "question": "Identify the correct sentence: She ________ to the store yesterday.",
+     "answers": ["go", "goed", "went"],
+     "correctAnswer": "went"
+   },
+   {
+     "question": "Choose the correct possessive pronoun: That book is ________.",
+     "answers": ["mine", "my", "yours"],
+     "correctAnswer": "mine"
+   },
+   {
+     "question": "Choose the correct form of the verb 'to be' in the past tense for the pronoun 'you'.",
+     "answers": ["am", "is", "were"],
+     "correctAnswer": "were"
+   },
+   {
+     "question": "What is the correct plural form of the word 'goose'?",
+     "answers": ["goos", "geeses", "geese"],
+     "correctAnswer": "geese"
+   },
+   {
+     "question": "Which of the following is an adverb?",
+     "answers": ["quick", "happy", "quickly"],
+     "correctAnswer": "quickly"
+   },
+   {
+     "question": "Identify the correct sentence: We ________ the movie last night.",
+     "answers": ["watched", "watches", "watch"],
+     "correctAnswer": "watched"
+   },
+   {
+     "question": "What is the correct comparative form of the adjective 'big'?",
+     "answers": ["biggest", "bigger", "biger"],
+     "correctAnswer": "bigger"
+   },
+   {
+     "question": "Choose the correct sentence: The cat is ________ the table.",
+     "answers": ["in", "on", "under"],
+     "correctAnswer": "on"
+   },
+   {
+     "question": "Which word is a conjunction? She went to the store ________ bought some milk.",
+     "answers": ["and", "Happy", "Run"],
+     "correctAnswer": "and"
+   },
+   {
+     "question": "What is the correct past participle form of the verb 'write'?",
+     "answers": ["written", "writed", "wrote"],
+     "correctAnswer": "written"
+   },
+   {
+     "question": "Identify the correct sentence: They ________ their homework yesterday.",
+     "answers": ["finish", "finished", "finishs"],
+     "correctAnswer": "finished"
+   },
+   {
+     "question": "Choose the correct pronoun: ________ is my friend.",
+     "answers": ["Her", "Him", "She"],
+     "correctAnswer": "She"
+   },
+   {
+     "question": "What is the antonym of 'happy'?",
+     "answers": ["sad", "tall", "funny"],
+     "correctAnswer": "sad"
+   },
+   {
+     "question": "Identify the correct sentence: He ________ the car to work every day.",
+     "answers": ["drived", "drove", "drive"],
+     "correctAnswer": "drove"
+   },
+   {
+     "question": "Choose the correct possessive pronoun: That is ________ book.",
+     "answers": ["your", "her", "our"],
+     "correctAnswer": "your"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the present tense for the pronoun 'we'?",
+     "answers": ["is", "are", "be"],
+     "correctAnswer": "are"
+   },
+   {
+     "question": "Which of the following is a plural noun?",
+     "answers": ["dog", "dogs", "doges"],
+     "correctAnswer": "dogs"
+   },
+   {
+     "question": "What is the correct superlative form of the adjective 'bad'?",
+     "answers": ["badder", "baddest", "bader"],
+     "correctAnswer": "worst"
+   },
+   {
+     "question": "Choose the correct sentence: ________ going to the party tonight.",
+     "answers": ["I am", "They is", "She are"],
+     "correctAnswer": "I am"
+   },
+   {
+     "question": "Which of the following is a conjunction?",
+     "answers": ["quick", "because", "happily"],
+     "correctAnswer": "because"
+   },
+   {
+     "question": "Identify the correct sentence: You ________ to the beach last summer.",
+     "answers": ["went", "go", "gone"],
+     "correctAnswer": "went"
+   },
+   {
+     "question": "Choose the correct pronoun: ________ is my brother.",
+     "answers": ["Me", "He", "His"],
+     "correctAnswer": "He"
+   },
+   {
+     "question": "Choose the correct form of the verb 'to be' in the present continuous tense for the pronoun 'I'.",
+     "answers": ["am", "is", "are"],
+     "correctAnswer": "am"
+   },
+   {
+     "question": "Identify the correct sentence: She ________ to the store every day.",
+     "answers": ["goes", "go", "going"],
+     "correctAnswer": "goes"
+   },
+   {
+     "question": "What is the correct comparative form of the adjective 'beautiful'?",
+     "answers": ["beautifuler", "beautifullest", "more beautiful"],
+     "correctAnswer": "more beautiful"
+   },
+   {
+     "question": "Choose the correct sentence: They ________ to the party last night.",
+     "answers": ["goed", "gone", "went"],
+     "correctAnswer": "went"
+   },
+   {
+     "question": "What is the correct plural form of the word 'child'?",
+     "answers": ["childs", "childes", "children"],
+     "correctAnswer": "children"
+   },
+   {
+     "question": "Identify the correct sentence: He ________ his lunch at noon.",
+     "answers": ["eat", "eats", "ate"],
+     "correctAnswer": "eats"
+   },
+   {
+     "question": "Choose the correct pronoun: ________ is my best friend.",
+     "answers": ["She", "Me", "I"],
+     "correctAnswer": "She"
+   },
+   {
+     "question": "What is the antonym of 'brave'?",
+     "answers": ["strong", "weak", "smart"],
+     "correctAnswer": "weak"
+   },
+   {
+     "question": "Identify the correct sentence: We ________ to the park last weekend.",
+     "answers": ["go", "goed", "went"],
+     "correctAnswer": "went"
+   },
+   {
+     "question": "Choose the correct possessive pronoun: That house is ________.",
+     "answers": ["their", "them", "theirs"],
+     "correctAnswer": "theirs"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the past continuous tense for the pronoun 'you'?",
+     "answers": ["am", "is", "were"],
+     "correctAnswer": "were"
+   },
+   {
+     "question": "Which of the following is an irregular plural noun?",
+     "answers": ["book", "books", "children"],
+     "correctAnswer": "children"
+   },
+   {
+     "question": "Identify the correct sentence: She ________ a letter to her friend yesterday.",
+     "answers": ["write", "writes", "wrote"],
+     "correctAnswer": "wrote"
+   },
+   {
+     "question": "Choose the correct pronoun: This gift is for ________.",
+     "answers": ["me", "mine", "my"],
+     "correctAnswer": "me"
+   },
+   {
+     "question": "What is the correct superlative form of the adjective 'happy'?",
+     "answers": ["happier", "happyest", "happiest"],
+     "correctAnswer": "happiest"
+   },
+   {
+     "question": "Identify the correct sentence: They ________ the game last night.",
+     "answers": ["win", "wins", "won"],
+     "correctAnswer": "won"
+   },
+   {
+     "question": "Choose the correct form of the verb 'to be' in the present continuous tense for the pronoun 'you'.",
+     "answers": ["am", "is", "are"],
+     "correctAnswer": "are"
+   },
+   {
+     "question": "What is the correct plural form of the word 'ox'?",
+     "answers": ["oxs", "oxen", "oxes"],
+     "correctAnswer": "oxen"
+   },
+   {
+     "question": "Identify the correct sentence: He ________ to the party last weekend.",
+     "answers": ["go", "went", "goed"],
+     "correctAnswer": "went"
+   },
+   {
+     "question": "Choose the correct pronoun: ________ is the winner.",
+     "answers": ["We", "Us", "Our"],
+     "correctAnswer": "We"
+   },
+   {
+     "question": "What is the antonym of 'small'?",
+     "answers": ["big", "little", "tiny"],
+     "correctAnswer": "big"
+   },
+   {
+     "question": "Identify the correct sentence: I ________ breakfast every morning.",
+     "answers": ["eat", "eats", "ate"],
+     "correctAnswer": "eat"
+   },
+   {
+     "question": "Choose the correct possessive pronoun: That car is ________.",
+     "answers": ["our", "ours", "us"],
+     "correctAnswer": "ours"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the past continuous tense for the pronoun 'he'?",
+     "answers": ["am", "is", "was"],
+     "correctAnswer": "was"
+   },
+   {
+     "question": "Which of the following is an irregular plural noun?",
+     "answers": ["box", "boxes", "oxen"],
+     "correctAnswer": "oxen"
+   },
+   {
+     "question": "Identify the correct sentence: They ________ a movie last night.",
+     "answers": ["watch", "watches", "watched"],
+     "correctAnswer": "watched"
+   },
+   {
+     "question": "Choose the correct pronoun: This book belongs to ________.",
+     "answers": ["we", "us", "our"],
+     "correctAnswer": "us"
+   },
+   {
+     "question": "What is the correct superlative form of the adjective 'beautiful'?",
+     "answers": ["beautifuler", "beautifullest", "most beautiful"],
+     "correctAnswer": "most beautiful"
+   },
+   {
+     "question": "Identify the correct sentence: He ________ the lottery last week.",
+     "answers": ["win", "wins", "won"],
+     "correctAnswer": "won"
+   },
+   {
+     "question": "Choose the correct form of the verb 'to be' in the present continuous tense for the pronoun 'we'.",
+     "answers": ["am", "is", "are"],
+     "correctAnswer": "are"
+   },
+   {
+     "question": "Identify the correct sentence: Neither of the boys ________ going to the party.",
+     "answers": ["is", "are", "am"],
+     "correctAnswer": "is"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: I wish I ________ more time to study.",
+     "answers": ["have", "had", "has"],
+     "correctAnswer": "had"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the past perfect tense for the pronoun 'she'?",
+     "answers": ["am", "is", "had been"],
+     "correctAnswer": "had been"
+   },
+   {
+     "question": "Identify the correct sentence: The cat ________ on the couch.",
+     "answers": ["lay", "laid", "lied"],
+     "correctAnswer": "lay"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: I can't believe ________ late again.",
+     "answers": ["you're", "your", "you"],
+     "correctAnswer": "you're"
+   },
+   {
+     "question": "What is the correct comparative form of the adverb 'quickly'?",
+     "answers": ["quicklier", "quickest", "more quickly"],
+     "correctAnswer": "more quickly"
+   },
+   {
+     "question": "Identify the correct sentence: The team ________ their opponents in the final match.",
+     "answers": ["defeat", "defeats", "defeated"],
+     "correctAnswer": "defeated"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: The ________ dog barked loudly.",
+     "answers": ["angry", "angrier", "angriest"],
+     "correctAnswer": "angry"
+   },
+   {
+     "question": "What is the correct plural form of the word 'analysis'?",
+     "answers": ["analyses", "analysises", "analysises"],
+     "correctAnswer": "analyses"
+   },
+   {
+     "question": "Identify the correct sentence: I haven't seen her ________.",
+     "answers": ["sometimes", "some times", "in a while"],
+     "correctAnswer": "in a while"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: I can't find ________ keys anywhere.",
+     "answers": ["my", "mine", "me"],
+     "correctAnswer": "my"
+   },
+   {
+     "question": "What is the correct superlative form of the adjective 'difficult'?",
+     "answers": ["difficulter", "most difficult", "difficultest"],
+     "correctAnswer": "most difficult"
+   },
+   {
+     "question": "Identify the correct sentence: She ________ a beautiful song at the concert.",
+     "answers": ["sang", "sing", "sung"],
+     "correctAnswer": "sang"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ car is parked in front of the house.",
+     "answers": ["Their", "They're", "There"],
+     "correctAnswer": "Their"
+   },
+   {
+     "question": "What is the antonym of 'generous'?",
+     "answers": ["selfish", "kind", "helpful"],
+     "correctAnswer": "selfish"
+   },
+   {
+     "question": "Identify the correct sentence: The students ________ hard for their exams.",
+     "answers": ["study", "studies", "studied"],
+     "correctAnswer": "studied"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: Can you pass ________ the salt, please?",
+     "answers": ["me", "my", "mine"],
+     "correctAnswer": "me"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the present perfect continuous tense for the pronoun 'we'?",
+     "answers": ["am", "is", "have been"],
+     "correctAnswer": "have been"
+   },
+   {
+     "question": "Which of the following is an irregular comparative adjective?",
+     "answers": ["good", "better", "best"],
+     "correctAnswer": "better"
+   },
+   {
+     "question": "Identify the correct sentence: The book ________ on the shelf for months.",
+     "answers": ["lays", "laid", "has lain"],
+     "correctAnswer": "has lain"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ going to the party tonight?",
+     "answers": ["Whose", "Who's", "Whom"],
+     "correctAnswer": "Who's"
+   },
+   {
+     "question": "What is the correct comparative form of the adjective 'intelligent'?",
+     "answers": ["more intelligent", "intelligenter", "intelligentest"],
+     "correctAnswer": "more intelligent"
+   },
+   {
+     "question": "Identify the correct sentence: He ________ his mother yesterday.",
+     "answers": ["call", "calls", "called"],
+     "correctAnswer": "called"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ house is the biggest on the street.",
+     "answers": ["We're", "Our", "Ours"],
+     "correctAnswer": "Our"
+   },
+   {
+     "question": "What is the antonym of 'fortunate'?",
+     "answers": ["unlucky", "lucky", "fortunatest"],
+     "correctAnswer": "unlucky"
+   },
+   {
+     "question": "Identify the correct sentence: They ________ the competition last year.",
+     "answers": ["win", "wins", "won"],
+     "correctAnswer": "won"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ are you going with?",
+     "answers": ["Who", "Whom", "Whose"],
+     "correctAnswer": "Whom"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the future perfect tense for the pronoun 'you'?",
+     "answers": ["am", "is", "will have been"],
+     "correctAnswer": "will have been"
+   },
+   {
+     "question": "Which of the following is an irregular comparative adjective?",
+     "answers": ["beautiful", "more beautiful", "most beautiful"],
+     "correctAnswer": "more beautiful"
+   },
+   {
+     "question": "Identify the correct sentence: We ________ our friends last weekend.",
+     "answers": ["visit", "visits", "visited"],
+     "correctAnswer": "visited"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: I enjoy reading ________ books.",
+     "answers": ["me", "mine", "my"],
+     "correctAnswer": "my"
+   },
+   {
+     "question": "Identify the correct sentence: Neither of them ________ able to solve the puzzle.",
+     "answers": ["was", "were", "have been"],
+     "correctAnswer": "was"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: It is essential that he ________ the report on time.",
+     "answers": ["finishes", "finish", "finished"],
+     "correctAnswer": "finish"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the past perfect continuous tense for the pronoun 'they'?",
+     "answers": ["am", "is", "had been"],
+     "correctAnswer": "had been"
+   },
+   {
+     "question": "Identify the correct sentence: The flowers ________ beautifully in the garden.",
+     "answers": ["smells", "smell", "smelt"],
+     "correctAnswer": "smell"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ opinion on the matter is irrelevant.",
+     "answers": ["Your", "You're", "Yours"],
+     "correctAnswer": "Your"
+   },
+   {
+     "question": "What is the correct comparative form of the adverb 'intensely'?",
+     "answers": ["intenselier", "most intensely", "intensest"],
+     "correctAnswer": "most intensely"
+   },
+   {
+     "question": "Identify the correct sentence: The team ________ their opponents convincingly.",
+     "answers": ["defeat", "defeats", "defeated"],
+     "correctAnswer": "defeated"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: The ________ mountain is covered in snow.",
+     "answers": ["high", "higher", "highest"],
+     "correctAnswer": "highest"
+   },
+   {
+     "question": "What is the correct plural form of the word 'phenomenon'?",
+     "answers": ["phenomena", "phenomenons", "phenomenons"],
+     "correctAnswer": "phenomena"
+   },
+   {
+     "question": "Identify the correct sentence: I haven't seen her ________ for ages.",
+     "answers": ["sometimes", "some times", "in forever"],
+     "correctAnswer": "in forever"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: I received ________ invitation to the event.",
+     "answers": ["my", "mine", "me"],
+     "correctAnswer": "an"
+   },
+   {
+     "question": "What is the correct superlative form of the adjective 'fascinating'?",
+     "answers": ["fascinater", "most fascinating", "fascinatingest"],
+     "correctAnswer": "most fascinating"
+   },
+   {
+     "question": "Identify the correct sentence: She ________ a delightful melody at the concert.",
+     "answers": ["sang", "sing", "sung"],
+     "correctAnswer": "sang"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ car is blocking the driveway.",
+     "answers": ["Their", "They're", "There"],
+     "correctAnswer": "Their"
+   },
+   {
+     "question": "What is the antonym of 'ambitious'?",
+     "answers": ["lazy", "determined", "hardworking"],
+     "correctAnswer": "lazy"
+   },
+   {
+     "question": "Identify the correct sentence: Each of the students ________ their own research project.",
+     "answers": ["completes", "complete", "completed"],
+     "correctAnswer": "completes"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: It is imperative that he ________ the task with utmost care.",
+     "answers": ["performs", "perform", "performed"],
+     "correctAnswer": "perform"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the future perfect continuous tense for the pronoun 'I'?",
+     "answers": ["am", "is", "will have been"],
+     "correctAnswer": "will have been"
+   },
+   {
+     "question": "Identify the correct sentence: The company's profits ________ significantly last year.",
+     "answers": ["increase", "increases", "increased"],
+     "correctAnswer": "increased"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ perspective, the decision seems flawed.",
+     "answers": ["Their", "They're", "There"],
+     "correctAnswer": "Their"
+   },
+   {
+     "question": "What is the correct comparative form of the adverb 'wisely'?",
+     "answers": ["wiselier", "most wisely", "wisest"],
+     "correctAnswer": "more wisely"
+   },
+   {
+     "question": "Identify the correct sentence: The author's novels ________ the complexities of human relationships.",
+     "answers": ["explores", "explore", "explored"],
+     "correctAnswer": "explore"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ effort deserves recognition.",
+     "answers": ["Each's", "Every's", "Every"],
+     "correctAnswer": "Every"
+   },
+   {
+     "question": "What is the correct plural form of the word 'criterion'?",
+     "answers": ["criterions", "criteriae", "criteria"],
+     "correctAnswer": "criteria"
+   },
+   {
+     "question": "Identify the correct sentence: We haven't seen him ________.",
+     "answers": ["sometimes", "sometime", "in ages"],
+     "correctAnswer": "in ages"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: I'm extremely proud of ________ achievements.",
+     "answers": ["my", "mine", "me"],
+     "correctAnswer": "my"
+   },
+   {
+     "question": "What is the correct superlative form of the adjective 'arduous'?",
+     "answers": ["arduouser", "most arduous", "arduousiest"],
+     "correctAnswer": "most arduous"
+   },
+   {
+     "question": "Identify the correct sentence: He ________ a compelling argument during the debate.",
+     "answers": ["present", "presents", "presented"],
+     "correctAnswer": "presented"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ new book is receiving rave reviews.",
+     "answers": ["Their", "They're", "There"],
+     "correctAnswer": "Their"
+   },
+   {
+     "question": "What is the antonym of 'exquisite'?",
+     "answers": ["ordinary", "exceptional", "beautiful"],
+     "correctAnswer": "ordinary"
+   },
+   {
+     "question": "Identify the correct sentence: The team ________ the championship for the fifth consecutive year.",
+     "answers": ["wins", "win", "won"],
+     "correctAnswer": "won"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ efforts were in vain.",
+     "answers": ["Their", "They're", "There"],
+     "correctAnswer": "Their"
+   },
+   {
+     "question": "What is the correct form of the verb 'to be' in the present perfect continuous tense for the pronoun 'he'?",
+     "answers": ["am", "is", "has been"],
+     "correctAnswer": "has been"
+   },
+   {
+     "question": "Identify the correct sentence: The project ________ within the specified time frame.",
+     "answers": ["completes", "complete", "completed"],
+     "correctAnswer": "completed"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: The ________ skyscraper in the city is a marvel of engineering.",
+     "answers": ["taller", "tallest", "most tall"],
+     "correctAnswer": "tallest"
+   },
+   {
+     "question": "What is the correct plural form of the word 'phenomenon'?",
+     "answers": ["phenomenons", "phenomena", "phenomenae"],
+     "correctAnswer": "phenomena"
+   },
+   {
+     "question": "Identify the correct sentence: I've never seen her ________.",
+     "answers": ["sometimes", "sometime", "before"],
+     "correctAnswer": "before"
+   },
+   {
+     "question": "Choose the correct word to complete the sentence: ________ insights are invaluable to the team.",
+     "answers": ["Your", "You're", "Yours"],
+     "correctAnswer": "Your"
+   },
+   {
+     "question": "What is the antonym of 'elaborate'?",
+     "answers": ["simple", "intricate", "detailed"],
+     "correctAnswer": "simple"
+   }
+]

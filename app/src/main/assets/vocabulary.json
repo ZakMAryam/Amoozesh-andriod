@@ -1,0 +1,1550 @@
+[
+    {
+        "question": "Hi",
+        "answers": ["پوست", "خداحافظی", "سلام"],
+        "correctAnswer": "سلام"
+    },
+    {
+        "question": "Goodbye",
+        "answers": ["خداحافظی", "عشق", "روده بزرگ"],
+        "correctAnswer": "خداحافظی"
+    },
+    {
+        "question": "Yes",
+        "answers": ["هوا", "بلی", "زندگی"],
+        "correctAnswer": "بلی"
+    },
+    {
+        "question": "No",
+        "answers": ["زمین", "خدا", "نه"],
+        "correctAnswer": "نه"
+    },
+    {
+        "question": "I",
+        "answers": ["من", "تو", "ازمن"],
+        "correctAnswer": "من"
+    },
+    {
+        "question": "You",
+        "answers": ["تو", "کی", "بلی"],
+        "correctAnswer": "تو"
+    },
+    {
+        "question": "He",
+        "answers": ["او (پسر)", "آن", "اوست"],
+        "correctAnswer": "او (پسر)"
+    },
+    {
+        "question": "She",
+        "answers": ["او (دختر)", "آن", "اوست"],
+        "correctAnswer": "(او (دختر"
+    },
+    {
+        "question": "We",
+        "answers": ["ما", "ماما", "خودم"],
+        "correctAnswer": "ما"
+    },
+    {
+        "question": "They",
+        "answers": ["آنها", "او", "شما"],
+        "correctAnswer": "آنها"
+    },
+    {
+        "question": "It",
+        "answers": ["آن", "این", "اون"],
+        "correctAnswer": "این"
+    },
+    {
+        "question": "What",
+        "answers": ["کی", "چه", "چرا"],
+        "correctAnswer": "چه"
+    },
+    {
+        "question": "Where",
+        "answers": ["کجا", "چه", "چرا"],
+        "correctAnswer": "کجا"
+    },
+    {
+        "question": "When",
+        "answers": ["چرا", "چه", "کی"],
+        "correctAnswer": "کی"
+    },
+    {
+        "question": "Why",
+        "answers": ["چه", "کی", "چرا"],
+        "correctAnswer": "چرا"
+    },
+    {
+        "question": "Which",
+        "answers": ["کدام", "کجا", "کی"],
+        "correctAnswer": "کدام"
+    },
+    {
+        "question": "How",
+        "answers": ["چرا", "کجا", "چطور"],
+        "correctAnswer": "چطور"
+    },
+    {
+        "question": "Big",
+        "answers": ["بزرگ", "کوچک", "زرد"],
+        "correctAnswer": "بزرگ"
+    },
+    {
+        "question": "Small",
+        "answers": ["بزرگ", "کوچک", "زرد"],
+        "correctAnswer": "کوچک"
+    },
+    {
+        "question": "Hot",
+        "answers": ["گرم", "سرد", "زرد"],
+        "correctAnswer": "گرم"
+    },
+    {
+        "question": "Cold",
+        "answers": ["گرم", "سرد", "زرد"],
+        "correctAnswer": "سرد"
+    },
+    {
+        "question": "Yesterday",
+        "answers": ["دیروز", "امروز", "فردا"],
+        "correctAnswer": "دیروز"
+    },
+    {
+        "question": "Today",
+        "answers": ["امروز", "دیروز", "فردا"],
+        "correctAnswer": "امروز"
+    },
+    {
+        "question": "Tomorrow",
+        "answers": ["فردا", "امروز", "دیروز"],
+        "correctAnswer": "فردا"
+    },
+    {
+        "question": "Play",
+        "answers": ["بازی کردن", "خوابیدن", "ورزش کردن"],
+        "correctAnswer": "بازی کردن"
+    },
+    {
+        "question": "Walk",
+        "answers": ["پیاده روی کردن", "دویدن", "شنا کردن"],
+        "correctAnswer": "پیاده روی کردن"
+    },
+    {
+        "question": "Jog",
+        "answers": ["دویدن", "ورزش کردن", "خوابیدن"],
+        "correctAnswer": "دویدن"
+    },
+    {
+        "question": "Eat",
+        "answers": ["خوردن", "نوشیدن", "خوابیدن"],
+        "correctAnswer": "خوردن"
+    },
+    {
+        "question": "Dance",
+        "answers": ["رقصیدن", "خوابیدن", "ترانه خواندن"],
+        "correctAnswer": "رقصیدن"
+    },
+    {
+        "question": "Work",
+        "answers": ["کار کردن", "خوابیدن", "خرید کردن"],
+        "correctAnswer": "کار کردن"
+    },
+    {
+        "question": "Study",
+        "answers": ["مطالعه کردن", "خوابیدن", "گردش کردن"],
+        "correctAnswer": "مطالعه کردن"
+    },
+    {
+        "question": "Run",
+        "answers": ["دویدن", "خوابیدن", "رقصیدن"],
+        "correctAnswer": "دویدن"
+    },
+    {
+        "question": "Sleep",
+        "answers": ["خوابیدن", "خوردن", "خرید کردن"],
+        "correctAnswer": "خوابیدن"
+    },
+    {
+        "question": "Shop",
+        "answers": ["خرید کردن", "فروش کردن", "بازاریابی کردن"],
+        "correctAnswer": "خرید کردن"
+    },
+    {
+        "question": "Travel",
+        "answers": ["سفر کردن", "خواندن", "نوشتن"],
+        "correctAnswer": "سفر کردن"
+    },
+    {
+        "question": "Paint",
+        "answers": ["نقاشی کردن", "خواندن", "نوشتن"],
+        "correctAnswer": "نقاشی کردن"
+    },
+    {
+        "question": "Gardening",
+        "answers": ["باغبانی کردن", "نوشتن", "خواندن"],
+        "correctAnswer": "باغبانی کردن"
+    },
+    {
+        "question": "Cycling",
+        "answers": ["دوچرخه سواری کردن", "ماشین سواری کردن", "پیاده روی کردن"],
+        "correctAnswer": "دوچرخه سواری کردن"
+    },
+    {
+        "question": "Swim",
+        "answers": ["شنا کردن", "شیرجه زدن", "غواصی کردن"],
+        "correctAnswer": "شنا کردن"
+    },
+
+    {
+        "question": "Eat",
+        "answers": ["نوشیدن", "خوردن", "بودن"],
+        "correctAnswer": "خوردن"
+    },
+    {
+        "question": "Sleep",
+        "answers": ["خوابیدن", "برداشتن", "رفتن"],
+        "correctAnswer": "خوابیدن"
+    },
+    {
+        "question": "Run",
+        "answers": ["دویدن", "نشستن", "گفتن"],
+        "correctAnswer": "دویدن"
+    },
+    {
+        "question": "Read",
+        "answers": ["خواندن", "آمدن", "شدن"],
+        "correctAnswer": "خواندن"
+    },
+    {
+        "question": "Write",
+        "answers": ["شدن", "نوشتن", "دیدن"],
+        "correctAnswer": "نوشتن"
+    },
+    {
+        "question": "Sing",
+        "answers": ["خواندن", "خوردن", "گفتن"],
+        "correctAnswer": "خواندن"
+    },
+    {
+        "question": "Dance",
+        "answers": ["رقصیدن", "خوابیدن", "آمدن"],
+        "correctAnswer": "رقصیدن"
+    },
+    {
+        "question": "Study",
+        "answers": ["مطالعه کردن", "نشستن", "رفتن"],
+        "correctAnswer": "مطالعه کردن"
+    },
+    {
+        "question": "Speak",
+        "answers": ["گفتن", "دیدن", "خوابیدن"],
+        "correctAnswer": "گفتن"
+    },
+    {
+        "question": "Listen",
+        "answers": ["گوش کردن", "دویدن", "خوردن"],
+        "correctAnswer": "گوش کردن"
+    },
+    {
+        "question": "Watch",
+        "answers": ["تماشا کردن", "نوشیدن", "خوردن"],
+        "correctAnswer": "تماشا کردن"
+    },
+    {
+        "question": "Play",
+        "answers": ["بازی کردن", "نوشیدن", "خوابیدن"],
+        "correctAnswer": "بازی کردن"
+    },
+    {
+        "question": "Cook",
+        "answers": ["پختن", "خوردن", "خوابیدن"],
+        "correctAnswer": "پختن"
+    },
+    {
+        "question": "Bake",
+        "answers": ["پختن در فر", "خوردن", "خوابیدن"],
+        "correctAnswer": "پختن در فر"
+    },
+    {
+        "question": "Clean",
+        "answers": ["تمیز کردن", "خوابیدن", "دویدن"],
+        "correctAnswer": "تمیز کردن"
+    },
+    {
+        "question": "Drive",
+        "answers": ["رانندگی کردن", "دویدن", "خوردن"],
+        "correctAnswer": "رانندگی کردن"
+    },
+    {
+        "question": "Fly",
+        "answers": ["پرواز کردن", "خوردن", "گفتن"],
+        "correctAnswer": "پرواز کردن"
+    },
+    {
+        "question": "Travel",
+        "answers": ["سفر کردن", "نوشیدن", "خوابیدن"],
+        "correctAnswer": "سفر کردن"
+    },
+    {
+        "question": "Learn",
+        "answers": ["یادگرفتن", "خوابیدن", "دویدن"],
+        "correctAnswer": "یادگرفتن"
+    },
+    {
+        "question": "Teach",
+        "answers": ["تدریس کردن", "خوردن", "خوابیدن"],
+        "correctAnswer": "تدریس کردن"
+    },
+    {
+        "question": "Understand",
+        "answers": ["فهمیدن", "گفتن", "خوابیدن"],
+        "correctAnswer": "فهمیدن"
+    },
+    {
+        "question": "Remember",
+        "answers": ["یادآوری کردن", "دویدن", "خوردن"],
+        "correctAnswer": "یادآوری کردن"
+    },
+    {
+        "question": "Forget",
+        "answers": ["فراموش کردن", "خوردن", "خوابیدن"],
+        "correctAnswer": "فراموش کردن"
+    },
+    {
+        "question": "Give",
+        "answers": ["دادن", "گفتن", "خوردن"],
+        "correctAnswer": "دادن"
+    },
+    {
+        "question": "Take",
+        "answers": ["گرفتن", "خوردن", "خوابیدن"],
+        "correctAnswer": "گرفتن"
+    },
+    {
+        "question": "Open",
+        "answers": ["باز کردن", "دویدن", "خوردن"],
+        "correctAnswer": "باز کردن"
+    },
+    {
+        "question": "Close",
+        "answers": ["بستن", "خوردن", "خوابیدن"],
+        "correctAnswer": "بستن"
+    },
+    {
+        "question": "Buy",
+        "answers": ["خریدن", "دویدن", "خوابیدن"],
+        "correctAnswer": "خریدن"
+    },
+    {
+        "question": "Sell",
+        "answers": ["فروش", "خوردن", "نوشیدن"],
+        "correctAnswer": "فروش"
+    },
+    {
+        "question": "Meet",
+        "answers": ["دیدار کردن", "خوابیدن", "گفتن"],
+        "correctAnswer": "دیدار کردن"
+    },
+    {
+        "question": "Talk",
+        "answers": ["صحبت کردن", "خوردن", "دویدن"],
+        "correctAnswer": "صحبت کردن"
+    },
+    {
+        "question": "Ask",
+        "answers": ["پرسیدن", "دویدن", "خوردن"],
+        "correctAnswer": "پرسیدن"
+    },
+    {
+        "question": "Answer",
+        "answers": ["پاسخ دادن", "خوردن", "خوابیدن"],
+        "correctAnswer": "پاسخ دادن"
+    },
+    {
+        "question": "Play",
+        "answers": ["نقشه کردن", "بازی کردن", "خوردن"],
+        "correctAnswer": "بازی کردن"
+    },
+    {
+        "question": "Win",
+        "answers": ["بردن", "خوردن", "خوابیدن"],
+        "correctAnswer": "بردن"
+    },
+    {
+        "question": "Lose",
+        "answers": ["باختن", "خوردن", "دویدن"],
+        "correctAnswer": "باختن"
+    },
+    {
+        "question": "Help",
+        "answers": ["کمک کردن", "خوردن", "خوابیدن"],
+        "correctAnswer": "کمک کردن"
+    },
+    {
+        "question": "Hurt",
+        "answers": ["صدمه زدن", "خوردن", "دویدن"],
+        "correctAnswer": "صدمه زدن"
+    },
+    {
+        "question": "Build",
+        "answers": ["ساختن", "خوابیدن", "خوردن"],
+        "correctAnswer": "ساختن"
+    },
+    {
+        "question": "Destroy",
+        "answers": ["نابود کردن", "گفتن", "خوردن"],
+        "correctAnswer": "نابود کردن"
+    },
+    {
+        "question": "Create",
+        "answers": ["ایجاد کردن", "خوردن", "نوشیدن"],
+        "correctAnswer": "ایجاد کردن"
+    },
+    {
+        "question": "Read",
+        "answers": ["خواندن", "بودن", "خوردن"],
+        "correctAnswer": "خواندن"
+    },
+    {
+        "question": "Write",
+        "answers": ["نوشتن", "دویدن", "خوردن"],
+        "correctAnswer": "نوشتن"
+    },
+    {
+        "question": "Draw",
+        "answers": ["نقاشی کردن", "خوردن", "خوابیدن"],
+        "correctAnswer": "نقاشی کردن"
+    },
+    {
+        "question": "Paint",
+        "answers": ["رنگ آمیزی کردن", "خوردن", "گفتن"],
+        "correctAnswer": "رنگ آمیزی کردن"
+    },
+    {
+        "question": "Plant",
+        "answers": ["کاشتن", "خوردن", "خوابیدن"],
+        "correctAnswer": "کاشتن"
+    },
+    {
+        "question": "Harvest",
+        "answers": ["برداشت کردن", "خوابیدن", "خوردن"],
+        "correctAnswer": "برداشت کردن"
+    },
+    {
+        "question": "Climb",
+        "answers": ["صعود کردن", "نوشیدن", "خوردن"],
+        "correctAnswer": "صعود کردن"
+    },
+    {
+        "question": "Jump",
+        "answers": ["پریدن", "دویدن", "خوابیدن"],
+        "correctAnswer": "پریدن"
+    },
+    {
+        "question": "Laugh",
+        "answers": ["خندیدن", "خوردن", "گفتن"],
+        "correctAnswer": "خندیدن"
+    },
+    {
+        "question": "Cry",
+        "answers": ["گریه کردن", "خوابیدن", "دویدن"],
+        "correctAnswer": "گریه کردن"
+    },
+    {
+        "question": "Smile",
+        "answers": ["لبخند زدن", "خوردن", "گفتن"],
+        "correctAnswer": "لبخند زدن"
+    },
+    {
+        "question": "Hug",
+        "answers": ["آغوش گرفتن", "خوردن", "خوابیدن"],
+        "correctAnswer": "آغوش گرفتن"
+    },
+    {
+        "question": "Kiss",
+        "answers": ["بوسه دادن", "خوابیدن", "نوشیدن"],
+        "correctAnswer": "بوسه دادن"
+    },
+
+    {
+        "question": "Car",
+        "answers": ["دوچرخه", "من", "موتر"],
+        "correctAnswer": "موتر"
+    },
+
+    {
+        "question": "Library",
+        "answers": ["میز", "کتابخانه", "چوکی"],
+        "correctAnswer": "کتابخانه"
+    },
+    {
+        "question": "Computer",
+        "answers": ["تلفن", "کامپیوتر", "تلویزیون"],
+        "correctAnswer": "کامپیوتر"
+    },
+    {
+        "question": "Garden",
+        "answers": ["باغچه", "ماشین", "دستگاه"],
+        "correctAnswer": "باغچه"
+    },
+    {
+        "question": "Rain",
+        "answers": ["آفتاب", "باد", "باران"],
+        "correctAnswer": "باران"
+    },
+    {
+        "question": "Pencil",
+        "answers": ["قلم", "پنسل", "پاک کن"],
+        "correctAnswer": "پنسل"
+    },
+    {
+        "question": "Music",
+        "answers": ["ورزش", "موسیقی", "نقاشی"],
+        "correctAnswer": "موسیقی"
+    },
+    {
+        "question": "Train",
+        "answers": ["مترو", "اتوبوس", "قطار"],
+        "correctAnswer": "قطار"
+    },
+    {
+        "question": "Teacher",
+        "answers": ["معلم", "دانشجو", "داکتر"],
+        "correctAnswer": "معلم"
+    },
+    {
+        "question": "Book",
+        "answers": ["دفتر", "کتاب", "مجله"],
+        "correctAnswer": "کتاب"
+    },
+    {
+        "question": "Bird",
+        "answers": ["مورچه", "مار", "پرنده"],
+        "correctAnswer": "پرنده"
+    },
+    {
+        "question": "Chair",
+        "answers": ["چوکی", "میز", "تخت"],
+        "correctAnswer": "چوکی"
+    },
+    {
+        "question": "Sun",
+        "answers": ["ماه", "خورشید", "ستاره"],
+        "correctAnswer": "خورشید"
+    },
+    {
+        "question": "House",
+        "answers": ["خانه", "شهر", "خیابان"],
+        "correctAnswer": "خانه"
+    },
+    {
+        "question": "Phone",
+        "answers": ["تلفن", "کتاب", "تلویزیون"],
+        "correctAnswer": "تلفن"
+    },
+    {
+        "question": "Tree",
+        "answers": ["ماهی", "درخت", "حیوان"],
+        "correctAnswer": "درخت"
+    },
+    {
+        "question": "Table",
+        "answers": ["کمر", "میز", "چوکی"],
+        "correctAnswer": "میز"
+    },
+    {
+        "question": "Eagle",
+        "answers": ["عقاب", "شتر", "شیر"],
+        "correctAnswer": "عقاب"
+    },
+    {
+        "question": "Fire",
+        "answers": ["آتش", "آب", "باد"],
+        "correctAnswer": "آتش"
+    },
+    {
+        "question": "Mountain",
+        "answers": ["دشت", "کوه", "دریا"],
+        "correctAnswer": "کوه"
+    },
+    {
+        "question": "Moon",
+        "answers": ["خورشید", "ماه", "ستاره"],
+        "correctAnswer": "ماه"
+    },
+    {
+        "question": "Coffee",
+        "answers": ["قهوه", "چای", "نوشیدنی"],
+        "correctAnswer": "قهوه"
+    },
+    {
+        "question": "Phone",
+        "answers": ["تلفن", "تلویزیون", "کامپیوتر"],
+        "correctAnswer": "تلفن"
+    },
+    {
+        "question": "Car",
+        "answers": ["ماشین", "موتورسیکلت", "دوچرخه"],
+        "correctAnswer": "ماشین"
+    },
+    {
+        "question": "Breakfast",
+        "answers": ["صبحانه", "ناهار", "شام"],
+        "correctAnswer": "صبحانه"
+    },
+    {
+        "question": "Friend",
+        "answers": ["دوست", "دشمن", "آشنا"],
+        "correctAnswer": "دوست"
+    },
+    {
+        "question": "Home",
+        "answers": ["خانه", "محل کار", "مدرسه"],
+        "correctAnswer": "خانه"
+    },
+    {
+        "question": "Food",
+        "answers": ["غذا", "نوشیدنی", "شیرینی"],
+        "correctAnswer": "غذا"
+    },
+    {
+        "question": "Work",
+        "answers": ["کار", "تفریح", "استراحت"],
+        "correctAnswer": "کار"
+    },
+    {
+        "question": "Money",
+        "answers": ["پول", "زمان", "مالیات"],
+        "correctAnswer": "پول"
+    },
+    {
+        "question": "Time",
+        "answers": ["زمان", "مکان", "فضا"],
+        "correctAnswer": "زمان"
+    },
+    {
+        "question": "Family",
+        "answers": ["خانواده", "دوستان", "همسایگان"],
+        "correctAnswer": "خانواده"
+    },
+    {
+        "question": "Love",
+        "answers": ["عشق", "نفرت", "ترس"],
+        "correctAnswer": "عشق"
+    },
+    {
+        "question": "School",
+        "answers": ["مدرسه", "دانشگاه", "کلاس"],
+        "correctAnswer": "مدرسه"
+    },
+    {
+        "question": "Music",
+        "answers": ["موسیقی", "فیلم", "نقاشی"],
+        "correctAnswer": "موسیقی"
+    },
+    {
+        "question": "Sleep",
+        "answers": ["خواب", "خوابیدن", "بیدار شدن"],
+        "correctAnswer": "خواب"
+    },
+    {
+        "question": "Health",
+        "answers": ["سلامتی", "بیماری", "دارو"],
+        "correctAnswer": "سلامتی"
+    },
+    {
+        "question": "Money",
+        "answers": ["پول", "نقدینگی", "ارز"],
+        "correctAnswer": "پول"
+    },
+    {
+        "question": "Time",
+        "answers": ["زمان", "وقت", "ساعت"],
+        "correctAnswer": "زمان"
+    },
+    {
+        "question": "Family",
+        "answers": ["خانواده", "والدین", "نسل"],
+        "correctAnswer": "خانواده"
+    },
+    {
+        "question": "Love",
+        "answers": ["عشق", "دلبستگی", "محبت"],
+        "correctAnswer": "عشق"
+    },
+    {
+        "question": "Clock",
+        "answers": ["ساعت", "کتاب", "چای"],
+        "correctAnswer": "ساعت"
+    },
+    {
+        "question": "Key",
+        "answers": ["کلید", "گوشی", "جعبه"],
+        "correctAnswer": "کلید"
+    },
+    {
+        "question": "Dog",
+        "answers": ["گربه", "موش", "سگ"],
+        "correctAnswer": "سگ"
+    },
+    {
+        "question": "Shoe",
+        "answers": ["کفش", "کلاه", "پیراهن"],
+        "correctAnswer": "کفش"
+    },
+    {
+        "question": "Rainbow",
+        "answers": ["ابر", "باد", "رنگین کمان"],
+        "correctAnswer": "رنگین کمان"
+    },
+    {
+        "question": "Camera",
+        "answers": ["دوربین", "لپ تاپ", "موبایل"],
+        "correctAnswer": "دوربین"
+    },
+    {
+        "question": "Sunflower",
+        "answers": ["سوسن", "خرما", "گل آفتابگردان"],
+        "correctAnswer": "گل آفتابگردان"
+    },
+    {
+        "question": "Window",
+        "answers": ["درب", "پنجره", "دیوار"],
+        "correctAnswer": "پنجره"
+    },
+    {
+        "question": "Butterfly",
+        "answers": ["کرم", "مورچه", "پروانه"],
+        "correctAnswer": "پروانه"
+    },
+    {
+        "question": "Fish",
+        "answers": ["ماهی", "خرگوش", "حیوان"],
+        "correctAnswer": "ماهی"
+    },
+    {
+        "question": "Ice",
+        "answers": ["گل", "یخ", "آب"],
+        "correctAnswer": "یخ"
+    },
+    {
+        "question": "Guitar",
+        "answers": ["کیبورد", "تار", "بازیگر"],
+        "correctAnswer": "تار"
+    },
+    {
+        "question": "Cloud",
+        "answers": ["باران", "ابر", "شیر"],
+        "correctAnswer": "ابر"
+    },
+    {
+        "question": "Hat",
+        "answers": ["پیراهن", "کلاه", "کفش"],
+        "correctAnswer": "کلاه"
+    },
+    {
+        "question": "Elephant",
+        "answers": ["فیل", "شتر", "شیر"],
+        "correctAnswer": "فیل"
+    },
+    {
+        "question": "Rose",
+        "answers": ["گلابی", "گل سرخ", "زعفران"],
+        "correctAnswer": "گل سرخ"
+    },
+    {
+        "question": "Planet",
+        "answers": ["خورشید", "کره زمین", "ستاره"],
+        "correctAnswer": "کره زمین"
+    },
+    {
+        "question": "Chair",
+        "answers": ["چوکی", "میز", "تخت"],
+        "correctAnswer": "چوکی"
+    },
+    {
+        "question": "River",
+        "answers": ["دریا", "جنگل", "رودخانه"],
+        "correctAnswer": "رودخانه"
+    },
+    {
+        "question": "Fire",
+        "answers": ["آتش", "آب", "باد"],
+        "correctAnswer": "آتش"
+    },
+    {
+        "question": "Star",
+        "answers": ["خورشید", "ماه", "ستاره"],
+        "correctAnswer": "ستاره"
+    },
+    {
+        "question": "Mountain",
+        "answers": ["دشت", "کوه", "دریا"],
+        "correctAnswer": "کوه"
+    },
+    {
+        "question": "Milk",
+        "answers": ["شیر", "شکلات", "نان"],
+        "correctAnswer": "شیر"
+    },
+    {
+        "question": "Moon",
+        "answers": ["خورشید", "ماه", "ستاره"],
+        "correctAnswer": "ماه"
+    },
+    {
+        "question": "Dog",
+        "answers": ["پشک", "موش", "سگ"],
+        "correctAnswer": "سگ"
+    },
+    {
+        "question": "Shoe",
+        "answers": ["کفش", "کلاه", "پیراهن"],
+        "correctAnswer": "کفش"
+    },
+    {
+        "question": "Rainbow",
+        "answers": ["ابر", "باد", "رنگین کمان"],
+        "correctAnswer": "رنگین کمان"
+    },
+    {
+        "question": "Flower",
+        "answers": ["گل", "دختر", "درخت"],
+        "correctAnswer": "گل"
+    },
+    {
+        "question": "Vivid",
+        "answers": ["کم رنگ", "زیبا", "رنگارنگ"],
+        "correctAnswer": "رنگارنگ"
+    },
+    {
+        "question": "Cozy",
+        "answers": ["ناخوشایند", "گرم و راحت", "فضای بزرگ"],
+        "correctAnswer": "گرم و راحت"
+    },
+    {
+        "question": "Fragile",
+        "answers": ["مستحکم", "شکستنی", "مقاوم"],
+        "correctAnswer": "شکستنی"
+    },
+    {
+        "question": "Delicious",
+        "answers": ["بدرد نخور", "لذیذ", "خوشمزه"],
+        "correctAnswer": "خوشمزه"
+    },
+    {
+        "question": "Charming",
+        "answers": ["بی‌جذاب", "جذاب", "بی‌سیرت"],
+        "correctAnswer": "جذاب"
+    },
+    {
+        "question": "Generous",
+        "answers": ["بخشنده", "خسیس", "بی‌وفا"],
+        "correctAnswer": "بخشنده"
+    },
+    {
+        "question": "Brave",
+        "answers": ["ترسو", "شجاع", "ترسناک"],
+        "correctAnswer": "شجاع"
+    },
+    {
+        "question": "Beautiful",
+        "answers": ["زشت", "زیبا", "کثیف"],
+        "correctAnswer": "زیبا"
+    },
+    {
+        "question": "Gentle",
+        "answers": ["خشن", "لطیف", "زشت"],
+        "correctAnswer": "لطیف"
+    },
+    {
+        "question": "Interesting",
+        "answers": ["خسته کننده", "جالب", "کسالت‌آور"],
+        "correctAnswer": "جالب"
+    },
+    {
+        "question": "Friendly",
+        "answers": ["دوستانه", "بی‌مهربان", "عداوت‌آمیز"],
+        "correctAnswer": "دوستانه"
+    },
+    {
+        "question": "Calm",
+        "answers": ["بی‌آرامش", "آرام", "عصبی"],
+        "correctAnswer": "آرام"
+    },
+    {
+        "question": "Honest",
+        "answers": ["دروغگو", "صادق", "کذاب"],
+        "correctAnswer": "صادق"
+    },
+    {
+        "question": "Loud",
+        "answers": ["ساکت", "بلند", "ضعیف"],
+        "correctAnswer": "بلند"
+    },
+    {
+        "question": "Peaceful",
+        "answers": ["آشفته", "آرامش‌بخش", "ناامن"],
+        "correctAnswer": "آرامش‌بخش"
+    },
+    {
+        "question": "Healthy",
+        "answers": ["بیمار", "سالم", "ضعیف"],
+        "correctAnswer": "سالم"
+    },
+    {
+        "question": "Sweet",
+        "answers": ["تلخ", "شیرین", "لاغر"],
+        "correctAnswer": "شیرین"
+    },
+    {
+        "question": "Smart",
+        "answers": ["بی‌فکر", "هوشمند", "مرتب"],
+        "correctAnswer": "هوشمند"
+    },
+    {
+        "question": "Energetic",
+        "answers": ["کم‌تحرک", "پرانرژی", "کسل‌کننده"],
+        "correctAnswer": "پرانرژی"
+    },
+    {
+        "question": "Neat",
+        "answers": ["بی‌نظم", "مرتب", "کثیف"],
+        "correctAnswer": "مرتب"
+    },
+    {
+        "question": "Polite",
+        "answers": ["بی‌ادب", "مؤدب", "توهین‌آمیز"],
+        "correctAnswer": "مؤدب"
+    },
+    {
+        "question": "Active",
+        "answers": ["بی‌تحرک", "فعال", "خاموش"],
+        "correctAnswer": "فعال"
+    },
+    {
+        "question": "Funny",
+        "answers": ["جدی", "باحال", "بی‌خنده"],
+        "correctAnswer": "باحال"
+    },
+    {
+        "question": "Talented",
+        "answers": ["بی‌استعداد", "استعدادمند", "ناهنجار"],
+        "correctAnswer": "استعدادمند"
+    },
+    {
+        "question": "Wise",
+        "answers": ["بی‌عقل", "دانا", "بی‌حس"],
+        "correctAnswer": "دانا"
+    },
+    {
+        "question": "Cute",
+        "answers": ["ناز", "زشت", "جذاب"],
+        "correctAnswer": "ناز"
+    },
+    {
+        "question": "Reliable",
+        "answers": ["ناقابل", "قابل اعتماد", "خطاکار"],
+        "correctAnswer": "قابل اعتماد"
+    },
+    {
+        "question": "Creative",
+        "answers": ["بی‌خلاقیت", "خلاق", "بی‌ابتکار"],
+        "correctAnswer": "خلاق"
+    },
+    {
+        "question": "Adventurous",
+        "answers": ["بی‌ماجراجویی", "ماجراجو", "بی‌ریسک"],
+        "correctAnswer": "ماجراجو"
+    },
+    {
+        "question": "Cheerful",
+        "answers": ["غمگین", "شاد", "ناراحت"],
+        "correctAnswer": "شاد"
+    },
+    {
+        "question": "Loving",
+        "answers": ["بی‌عشق", "مهربان", "بی‌علاقه"],
+        "correctAnswer": "مهربان"
+    },
+    {
+        "question": "Curious",
+        "answers": ["بی‌کنجکاوی", "کنجکاو", "عجیب"],
+        "correctAnswer": "کنجکاو"
+    },
+    {
+        "question": "Humble",
+        "answers": ["مغرور", "فروتن", "خودبین"],
+        "correctAnswer": "فروتن"
+    },
+    {
+        "question": "Responsible",
+        "answers": ["بی‌مسئولیت", "مسئول", "غیرمسئول"],
+        "correctAnswer": "مسئول"
+    },
+    {
+        "question": "Grateful",
+        "answers": ["بی‌امتناع", "سپاسگزار", "بی‌تشکری"],
+        "correctAnswer": "سپاسگزار"
+    },
+    {
+        "question": "Modest",
+        "answers": ["خودتمام", "متواضع", "خودبین"],
+        "correctAnswer": "متواضع"
+    },
+    {
+        "question": "Stylish",
+        "answers": ["بی‌سلیقه", "شیک", "غیرمدنظر"],
+        "correctAnswer": "شیک"
+    },
+    {
+        "question": "Patient",
+        "answers": ["بی‌صبر", "بیمار", "صبور"],
+        "correctAnswer": "صبور"
+    },
+    {
+        "question": "Eager",
+        "answers": ["بی‌شوق", "مشتاق", "بی‌علاقه"],
+        "correctAnswer": "مشتاق"
+    },
+    {
+        "question": "Resilient",
+        "answers": ["ضعیف", "مقاوم", "ناپایدار"],
+        "correctAnswer": "مقاوم"
+    },
+    {
+        "question": "Tolerant",
+        "answers": ["بی‌تحمل", "با تحمل", "بی‌صبر"],
+        "correctAnswer": "با تحمل"
+    },
+    {
+        "question": "Humble",
+        "answers": ["مغرور", "فروتن", "خودبین"],
+        "correctAnswer": "فروتن"
+    },
+    {
+        "question": "Optimistic",
+        "answers": ["تاریک‌نگر", "با امید", "بی‌امید"],
+        "correctAnswer": "با امید"
+    },
+    {
+        "question": "Eloquent",
+        "answers": ["بیان", "مبهم", "فصیح"],
+        "correctAnswer": "فصیح"
+    },
+    {
+        "question": "Tedious",
+        "answers": ["ممتع", "خسته کننده", "فراموش شده"],
+        "correctAnswer": "خسته کننده"
+    },
+    {
+        "question": "Ambiguous",
+        "answers": ["واضح", "مبهم", "قابل تفسیر"],
+        "correctAnswer": "مبهم"
+    },
+    {
+        "question": "Versatile",
+        "answers": ["متعدد", "ناشناخته", "تطبیق پذیر"],
+        "correctAnswer": "تطبیق پذیر"
+    },
+    {
+        "question": "Imminent",
+        "answers": ["دور", "نزدیک", "رسمی"],
+        "correctAnswer": "نزدیک"
+    },
+    {
+        "question": "Diligent",
+        "answers": ["بی انصاف", "سست", "سخت کوش"],
+        "correctAnswer": "سخت کوش"
+    },
+    {
+        "question": "Ponderous",
+        "answers": ["بی روح", "سبک", "سنگین"],
+        "correctAnswer": "سنگین"
+    },
+    {
+        "question": "Meticulous",
+        "answers": ["فراموش شده", "بی دقت", "دقیق"],
+        "correctAnswer": "دقیق"
+    },
+    {
+        "question": "Enigmatic",
+        "answers": ["پیشبینی ناپذیر", "رمزآمیز", "رفتارگو"],
+        "correctAnswer": "رمزآمیز"
+    },
+    {
+        "question": "Vibrant",
+        "answers": ["خاموش", "شاد", "بی‌رنگ"],
+        "correctAnswer": "شاد"
+    },
+    {
+        "question": "Evasive",
+        "answers": ["تصویری", "اجتنابی", "مستقیم"],
+        "correctAnswer": "اجتنابی"
+    },
+    {
+        "question": "Innovative",
+        "answers": ["پیشگام", "معمولی", "ناخوشایند"],
+        "correctAnswer": "پیشگام"
+    },
+    {
+        "question": "Skeptical",
+        "answers": ["معتقد", "شکاک", "قاطع"],
+        "correctAnswer": "شکاک"
+    },
+    {
+        "question": "Resilient",
+        "answers": ["بی عیب", "مقاوم", "حساب شده"],
+        "correctAnswer": "مقاوم"
+    },
+    {
+        "question": "Inquisitive",
+        "answers": ["تکاملی", "کنجکاو", "خوش‌تیپ"],
+        "correctAnswer": "کنجکاو"
+    },
+    {
+        "question": "Ambitious",
+        "answers": ["ترسو", "بزرگ", "جاه‌طلب"],
+        "correctAnswer": "جاه‌طلب"
+    },
+    {
+        "question": "Intricate",
+        "answers": ["ساده", "پیچیده", "نادان"],
+        "correctAnswer": "پیچیده"
+    },
+    {
+        "question": "Vulnerable",
+        "answers": ["آسیب‌پذیر", "محافظه‌کار", "آماده"],
+        "correctAnswer": "آسیب‌پذیر"
+    },
+    {
+        "question": "Dynamic",
+        "answers": ["غیرقابل تغییر", "متغیر", "کوچک"],
+        "correctAnswer": "متغیر"
+    },
+    {
+        "question": "Sophisticated",
+        "answers": ["نیازمند", "پیشرفته", "عقب‌مانده"],
+        "correctAnswer": "پیشرفته"
+    },
+    {
+        "question": "Intriguing",
+        "answers": ["عجیب", "جالب", "عادی"],
+        "correctAnswer": "جالب"
+    },
+    {
+        "question": "Exquisite",
+        "answers": ["خام", "بدیع", "بیش‌ازحد"],
+        "correctAnswer": "بدیع"
+    },
+    {
+        "question": "Innovative",
+        "answers": ["قدیمی", "نوآورانه", "ساده"],
+        "correctAnswer": "نوآورانه"
+    },
+    {
+        "question": "Surreptitious",
+        "answers": ["جسورانه", "مخفی", "عمومی"],
+        "correctAnswer": "مخفی"
+    },
+    {
+        "question": "Robust",
+        "answers": ["ضعیف", "قوی", "غیرمنتظره"],
+        "correctAnswer": "قوی"
+    },
+    {
+        "question": "Incorrigible",
+        "answers": ["قابل تغییر", "بداهه‌گو", "غیرقابل اصلاح"],
+        "correctAnswer": "غیرقابل اصلاح"
+    },
+    {
+        "question": "Strenuous",
+        "answers": ["ساده", "سخت", "متوسط"],
+        "correctAnswer": "سخت"
+    },
+    {
+        "question": "Prolific",
+        "answers": ["بیثبات", "خلاق", "مبهم"],
+        "correctAnswer": "خلاق"
+    },
+    {
+        "question": "Impeccable",
+        "answers": ["عالی", "بد", "بی‌عیب"],
+        "correctAnswer": "بی‌عیب"
+    },
+    {
+        "question": "Intrepid",
+        "answers": ["مهربان", "بی‌ترس", "خطرناک"],
+        "correctAnswer": "بی‌ترس"
+    },
+    {
+        "question": "Arduous",
+        "answers": ["آسان", "دشوار", "شگفت‌انگیز"],
+        "correctAnswer": "دشوار"
+    },
+    {
+        "question": "Ingenious",
+        "answers": ["بی‌فکر", "باهوش", "کم‌خرد"],
+        "correctAnswer": "باهوش"
+    },
+    {
+        "question": "Ubiquitous",
+        "answers": ["نادر", "فراگیر", "خودخواه"],
+        "correctAnswer": "فراگیر"
+    },
+    {
+        "question": "Mundane",
+        "answers": ["پیچیده", "متداول", "عالی"],
+        "correctAnswer": "متداول"
+    },
+    {
+        "question": "Exemplary",
+        "answers": ["غیرمعمولی", "معیاری", "عادی"],
+        "correctAnswer": "معیاری"
+    },
+    {
+        "question": "Indispensable",
+        "answers": ["تجدیدنظرناپذیر", "ضروری", "فراموش شده"],
+        "correctAnswer": "ضروری"
+    },
+    {
+        "question": "Nuanced",
+        "answers": ["ساده", "پیچیده", "سطحی"],
+        "correctAnswer": "پیچیده"
+    },
+    {
+        "question": "Immaculate",
+        "answers": ["بد", "تمیز", "بی‌نقص"],
+        "correctAnswer": "بی‌نقص"
+    },
+    {
+        "question": "Intransigent",
+        "answers": ["انعطاف‌ناپذیر", "شاداب", "همراه"],
+        "correctAnswer": "انعطاف‌ناپذیر"
+    },
+    {
+        "question": "Infallible",
+        "answers": ["خطاکار", "نادرست", "بی‌نقص"],
+        "correctAnswer": "بی‌نقص"
+    },
+    {
+        "question": "Resolute",
+        "answers": ["تردیدکننده", "قاطع", "مطمئن"],
+        "correctAnswer": "قاطع"
+    },
+    {
+        "question": "Inept",
+        "answers": ["خوب", "ناتوان", "کارآمد"],
+        "correctAnswer": "ناتوان"
+    },
+    {
+        "question": "Intrusive",
+        "answers": ["فراری", "مزاحم", "هدایت‌کننده"],
+        "correctAnswer": "مزاحم"
+    },
+    {
+        "question": "Proficient",
+        "answers": ["بی‌تجربه", "ماهر", "ناشیانه"],
+        "correctAnswer": "ماهر"
+    },
+    {
+        "question": "Elusive",
+        "answers": ["آشکار", "دلسرد", "دشوار یابد"],
+        "correctAnswer": "دشوار یابد"
+    },
+    {
+        "question": "Indomitable",
+        "answers": ["ضعیف", "غیرقابل مقاومت", "محکم"],
+        "correctAnswer": "غیرقابل مقاومت"
+    },
+    {
+        "question": "Ubiquitous",
+        "answers": ["نادر", "فراگیر", "خودخواه"],
+        "correctAnswer": "فراگیر"
+    },
+    {
+        "question": "Mundane",
+        "answers": ["پیچیده", "متداول", "عالی"],
+        "correctAnswer": "متداول"
+    },
+    {
+        "question": "Exemplary",
+        "answers": ["غیرمعمولی", "معیاری", "عادی"],
+        "correctAnswer": "معیاری"
+    },
+    {
+        "question": "Indispensable",
+        "answers": ["تجدیدنظرناپذیر", "ضروری", "فراموش شده"],
+        "correctAnswer": "ضروری"
+    },
+    {
+        "question": "Nuanced",
+        "answers": ["ساده", "پیچیده", "سطحی"],
+        "correctAnswer": "پیچیده"
+    },
+    {
+        "question": "Immaculate",
+        "answers": ["بد", "تمیز", "بی‌نقص"],
+        "correctAnswer": "بی‌نقص"
+    },
+    {
+        "question": "Intransigent",
+        "answers": ["انعطاف‌ناپذیر", "شاداب", "همراه"],
+        "correctAnswer": "انعطاف‌ناپذیر"
+    },
+    {
+        "question": "Infallible",
+        "answers": ["خطاکار", "نادرست", "بی‌نقص"],
+        "correctAnswer": "بی‌نقص"
+    },
+    {
+        "question": "Resolute",
+        "answers": ["تردیدکننده", "قاطع", "مطمئن"],
+        "correctAnswer": "قاطع"
+    },
+    {
+        "question": "Inept",
+        "answers": ["خوب", "ناتوان", "کارآمد"],
+        "correctAnswer": "ناتوان"
+    },
+    {
+        "question": "Intrusive",
+        "answers": ["فراری", "مزاحم", "هدایت‌کننده"],
+        "correctAnswer": "مزاحم"
+    },
+    {
+        "question": "Proficient",
+        "answers": ["بی‌تجربه", "ماهر", "ناشیانه"],
+        "correctAnswer": "ماهر"
+    },
+    {
+        "question": "Elusive",
+        "answers": ["آشکار", "دلسرد", "دشوار یابد"],
+        "correctAnswer": "دشوار یابد"
+    },
+    {
+        "question": "Indomitable",
+        "answers": ["ضعیف", "غیرقابل مقاومت", "محکم"],
+        "correctAnswer": "غیرقابل مقاومت"
+    },
+    {
+        "question": "Abrogate",
+        "answers": ["لغو کردن", "تایید کردن", "فهمیدن"],
+        "correctAnswer": "لغو کردن"
+    },
+    {
+        "question": "Deleterious",
+        "answers": ["مضر", "مفید", "درمانی"],
+        "correctAnswer": "مضر"
+    },
+    {
+        "question": "Ephemeral",
+        "answers": ["دایمی", "گذرا", "جاودانه"],
+        "correctAnswer": "گذرا"
+    },
+    {
+        "question": "Farcical",
+        "answers": ["جدی", "بی‌ معنی", "سنگین"],
+        "correctAnswer": "بی‌ معنی"
+    },
+    {
+        "question": "Garrulous",
+        "answers": ["صمیمی", "پرحرف", "ساکت"],
+        "correctAnswer": "پرحرف"
+    },
+    {
+        "question": "Hapless",
+        "answers": ["خوش‌ شانس", "بدشانس", "خوش‌بخت"],
+        "correctAnswer": "بدشانس"
+    },
+    {
+        "question": "Iconoclast",
+        "answers": ["متمرد", "سنت‌ شکن", "منطقی"],
+        "correctAnswer": "سنت‌ شکن"
+    },
+    {
+        "question": "Juxtapose",
+        "answers": ["موازی قرار دادن", "جدا کردن", "معمولی کردن"],
+        "correctAnswer": "موازی قرار دادن"
+    },
+    {
+        "question": "Mellifluous",
+        "answers": ["خشن", "شیرین", "تلخ"],
+        "correctAnswer": "شیرین"
+    },
+    {
+        "question": "Nefarious",
+        "answers": ["(نیکوکار", "آدم‌رنج", "آدم‌ شریر(بدکار"],
+        "correctAnswer": "آدم‌ شریر(بدکار)"
+    },
+    {
+        "question": "Obliterate",
+        "answers": ["حفظ کردن", "نابود کردن", "سرشار کردن"],
+        "correctAnswer": "نابود کردن"
+    },
+    {
+        "question": "Pernicious",
+        "answers": ["مفید", "آسیب‌ رسان", "معطی"],
+        "correctAnswer": "آسیب‌ رسان"
+    },
+    {
+        "question": "Querulous",
+        "answers": ["مهاجم", "مشکوک", "خوش‌ بین"],
+        "correctAnswer": "مشکوک"
+    },
+    {
+        "question": "Reticent",
+        "answers": ["بلند", "کم‌حرف", "خودبین"],
+        "correctAnswer": "کم‌حرف"
+    },
+    {
+        "question": "Sycophant",
+        "answers": ["پرستاره", "همدرد", "خون‌آشام"],
+        "correctAnswer": "پرستاره"
+    },
+    {
+        "question": "Trepidation",
+        "answers": ["آرامش", "ترس و وحشت", "شادی"],
+        "correctAnswer": "ترس و وحشت"
+    },
+    {
+        "question": "Ubiquitous",
+        "answers": ["موجود", "واقعی", "همیشگی"],
+        "correctAnswer": "همیشگی"
+    },
+    {
+        "question": "Vacillate",
+        "answers": ["تصمیم‌گیری کردن", "ناپایدار بودن", "ثابت‌قدم بودن"],
+        "correctAnswer": "ناپایدار بودن"
+    },
+    {
+        "question": "Wistful",
+        "answers": ["خوشحال", "ادبی", "حسرت‌انگیز"],
+        "correctAnswer": "حسرت‌انگیز"
+    },
+    {
+        "question": "Yield",
+        "answers": ["ساختن", "تسلیم شدن", "نابود کردن"],
+        "correctAnswer": "تسلیم شدن"
+    },
+    {
+        "question": "Zealous",
+        "answers": ["بی‌علاقه", "سرزنده", "مشتاق"],
+        "correctAnswer": "مشتاق"
+    },
+    {
+        "question": "Acrimonious",
+        "answers": ["مهربان", "تلخ", "ناباور"],
+        "correctAnswer": "تلخ"
+    },
+    {
+        "question": "Benevolent",
+        "answers": ["پست", "نیکوکار", "زشت"],
+        "correctAnswer": "نیکوکار"
+    },
+    {
+        "question": "Capricious",
+        "answers": ["ثابت‌قدم", "ناپایدار", "معتدل"],
+        "correctAnswer": "ناپایدار"
+    },
+    {
+        "question": "Ebullient",
+        "answers": ["بی‌حوصله", "سرخوش", "ناراحت"],
+        "correctAnswer": "سرخوش"
+    },
+    {
+        "question": "Facetious",
+        "answers": ["جدی", "بی‌مزه", "شوخ‌ طبع"],
+        "correctAnswer": "شوخ‌ طبع"
+    },
+    {
+        "question": "Gregarious",
+        "answers": ["بی‌اعتماد", "اجتماعی", "منزوی"],
+        "correctAnswer": "اجتماعی"
+    },
+    {
+        "question": "Histrionic",
+        "answers": ["معقول", "صداکش", "بنی‌سوزان"],
+        "correctAnswer": "صداکش"
+    },
+    {
+        "question": "Idiosyncrasy",
+        "answers": ["تنوع", "همرنگی", "ویژگی خاص"],
+        "correctAnswer": "ویژگی خاص"
+    },
+    {
+        "question": "Jubilant",
+        "answers": ["ملول", "شاد", "غمگین"],
+        "correctAnswer": "شاد"
+    },
+    {
+        "question": "Kowtow",
+        "answers": ["تحویل", "درست کردن", "خم شدن و ادب کردن"],
+        "correctAnswer": "خم شدن و ادب کردن"
+    },
+    {
+        "question": "Lugubrious",
+        "answers": ["شاد", "پرحال", "غمگین"],
+        "correctAnswer": "غمگین"
+    },
+    {
+        "question": "Munificent",
+        "answers": ["مهربان", "بخیل", "سخاوتمند"],
+        "correctAnswer": "سخاوتمند"
+    },
+    {
+        "question": "Nihilism",
+        "answers": ["پرستاره", "نیستیگرایی", "مذهب"],
+        "correctAnswer": "نیستیگرایی"
+    },
+    {
+        "question": "Obfuscate",
+        "answers": ["واضح کردن", "پنهان کردن", "دروغ گفتن"],
+        "correctAnswer": "پنهان کردن"
+    },
+    {
+        "question": "Quixotic",
+        "answers": ["عمل‌گرا", "آرمان‌گرا", "واقع‌بین"],
+        "correctAnswer": "آرمان‌گرا"
+    },
+    {
+        "question": "Rapacious",
+        "answers": ["مهربان", "حریص", "مغرور"],
+        "correctAnswer": "حریص"
+    },
+    {
+        "question": "Sagacious",
+        "answers": ["بی‌عقل", "خردمند", "بی‌فکر"],
+        "correctAnswer": "خردمند"
+    },
+    {
+        "question": "Taciturn",
+        "answers": ["صمیمی", "پرحرف", "کم حرف"],
+        "correctAnswer": "گم حرف"
+    },
+    {
+        "question": "Ubiquitous",
+        "answers": ["منسجم", "موجود", "همیشگی"],
+        "correctAnswer": "همیشگی"
+    },
+    {
+        "question": "Vacuous",
+        "answers": ["مغز پر خالی", "خلاق", "سرزنده"],
+        "correctAnswer": "مغز پر خالی"
+    },
+    {
+        "question": "Xenophobe",
+        "answers": ["دلسوز", "بیگانه‌ستیز", "همدرد"],
+        "correctAnswer": "بیگانه‌ستیز"
+    },
+    {
+        "question": "Yearn",
+        "answers": ["علاقه‌مند بودن", "خواهانه‌مند بودن", "حسرت‌ کشیدن"],
+        "correctAnswer": "حسرت‌ کشیدن"
+    },
+    {
+        "question": "Zealot",
+        "answers": ["پوچ", "مشتاق", "ستون‌های هوشمند"],
+        "correctAnswer": "مشتاق"
+    }
+]

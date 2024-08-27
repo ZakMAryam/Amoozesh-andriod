@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Amoozesh</string>
+    <string name="next">Next</string>
+    <string name="vocabulary">Vocabulary</string>
+    <string name="grammer">Grammer</string>
+    <string name="communication">Communication</string>
+    <string name="books">Books</string>
+    <string name="getstared">Get Started</string>
+    <string name="classes">Classes</string>
+    <string name="thekiterunner">The Kite Runner</string>
+    <string name="prideandprejudice">Pride and Prejudice</string>
+    <string name="tokilla">To kill a Mockingbird</string>
+    <string name="tv_Thealchemist">The Alchemist</string>
+    <string name="tv_nineteen">1984</string>
+    <string name="tv_athousand">A Thousand Splendid Sun</string>
+    <string name="persian">دری</string>
+    <string name="english">English</string>
+    <string name="settings">Settings</string>
+    <string name="aboutus">About Us</string>
+    <string name="contactus">Contact Us</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="contactusmsg">We value your feedback and\nare here to assist you. If you\nhave any questions, suggestions, or need support, please feel free to reach out to us. Our dedicated team is ready to help you.</string>
+</resources>

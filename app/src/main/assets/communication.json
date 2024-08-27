@@ -1,0 +1,1246 @@
+[
+    {
+        "question": "Hi, what is your name?",
+        "answers": [
+            "I love jogging",
+            "May I have a glass of water",
+            "Hi, my name is Lisa"
+        ],
+        "correctAnswer": "Hi, my name is Lisa"
+    },
+    {
+        "question": "How was your weekend?",
+        "answers": [
+            "Pizza  is my favorite food",
+            "It was great!",
+            "I like hiking"
+        ],
+        "correctAnswer": "It was great!"
+    },
+    {
+        "question": "What did you have for breakfast?",
+        "answers": [
+            "She won the competition",
+            "I had toast and eggs",
+            "I love playing guitar"
+        ],
+        "correctAnswer": "I had toast and eggs"
+    },
+    {
+        "question": "Did you watch a movie last night?",
+        "answers": [
+            "Yes, it was an action movie",
+            "I enjoy reading books",
+            "I played video games"
+        ],
+        "correctAnswer": "Yes, it was an action movie"
+    },
+    {
+        "question": "What are your plans for the weekend?",
+        "answers": [
+            "She is a teacher",
+            "I am going shopping",
+            "I love swimming"
+        ],
+        "correctAnswer": "I am going shopping"
+    },
+    {
+        "question": "How do you like your coffee?",
+        "answers": [
+            "I am drinking water",
+            "He is a talented musician",
+            "I like it black"
+        ],
+        "correctAnswer": "I like it black"
+    },
+    {
+        "question": "What did you do last weekend?",
+        "answers": [
+            "I visited my family",
+            "The weather is nice",
+            "I enjoy playing soccer"
+        ],
+        "correctAnswer": "I visited my family"
+    },
+    {
+        "question": "Have you been to any concerts recently?",
+        "answers": [
+            "I like watching movies",
+            "I enjoy hiking in nature",
+            "Yes, I saw my favorite band"
+        ],
+        "correctAnswer": "Yes, I saw my favorite band"
+    },
+    {
+        "question": "What is your favorite hobby?",
+        "answers": [
+            "I love painting",
+            "He is a talented actor",
+            "She works as a teacher"
+        ],
+        "correctAnswer": "I love painting"
+    },
+    {
+        "question": "Did you travel anywhere exciting this year?",
+        "answers": [
+            "Yes, I went on a beach vacation",
+            "I like listening to music",
+            "I enjoy reading books"
+        ],
+        "correctAnswer": "Yes, I went on a beach vacation"
+    },
+    {
+        "question": "What do you usually do in your free time?",
+        "answers": [
+            "She is a doctor",
+            "I go for walks in the park",
+            "I enjoy playing board games"
+        ],
+        "correctAnswer": "I go for walks in the park"
+    },
+    {
+        "question": "What do you usually do in your free time?",
+        "answers": [
+            "She is a doctor",
+            "The tea was good",
+            "I enjoy playing board games"
+        ],
+        "correctAnswer": "I enjoy playing board games"
+    },
+    {
+        "question": "What is your favorite movie?",
+        "answers": [
+            "I love acting",
+            "He is a teacher",
+            "The Shawshank Redemption"
+        ],
+        "correctAnswer": "The Shawshank Redemption"
+    },
+    {
+        "question": "How do you usually celebrate your birthday?",
+        "answers": [
+            "She is a lawyer",
+            "I invite my friends for a party",
+            "I don't have a birthday"
+        ],
+        "correctAnswer": "I invite my friends for a party"
+    },
+    {
+        "question": "What is your dream travel destination?",
+        "answers": [
+            "I want to visit Paris",
+            "He is a musician",
+            "She is a student"
+        ],
+        "correctAnswer": "I want to visit Paris"
+    },
+    {
+        "question": "Do you enjoy cooking?",
+        "answers": [
+            "She is an engineer",
+            "I prefer ordering takeout",
+            "Yes! I love trying new recipes"
+        ],
+        "correctAnswer": "Yes! I love trying new recipes"
+    },
+    {
+        "question": "What is your favorite book?",
+        "answers": [
+            "I enjoy reading mystery novels",
+            "He is a pilot",
+            "I don't like reading"
+        ],
+        "correctAnswer": "I enjoy reading mystery novels"
+    },
+    {
+        "question": "How do you stay active?",
+        "answers": [
+            "She is a dentist",
+            "I prefer a sedentary lifestyle",
+            "I go to the gym regularly"
+        ],
+        "correctAnswer": "I go to the gym regularly"
+    },
+    {
+        "question": "What is your favorite season?",
+        "answers": [
+            "He is a chef",
+            "I prefer autumn",
+            "I love the winter season"
+        ],
+        "correctAnswer": "I love the winter season"
+    },
+    {
+        "question": "What is your favorite hobby?",
+        "answers": [
+            "I enjoy painting",
+            "She is a scientist",
+            "I don't have any hobbies"
+        ],
+        "correctAnswer": "I enjoy painting"
+    },
+    {
+        "question": "What is your favorite music genre?",
+        "answers": [
+            "He is an accountant",
+            "I love rock music",
+            "I went to the park"
+        ],
+        "correctAnswer": "I love rock music"
+    },
+    {
+        "question": "How do you handle stress?",
+        "answers": [
+            "She is a teacher",
+            "I practice mindfulness meditation",
+            "I get easily overwhelmed"
+        ],
+        "correctAnswer": "I practice mindfulness meditation"
+    },
+    {
+        "question": "What is your favorite color?",
+        "answers": [
+            "I like blue",
+            "He is a photographer",
+            "she is a girl"
+        ],
+        "correctAnswer": "I like blue"
+    },
+    {
+        "question": "What is your favorite food?",
+        "answers": [
+            "I enjoy eating sushi",
+            "She is a writer",
+            "I don't eat"
+        ],
+        "correctAnswer": "I enjoy eating sushi"
+    },
+    {
+        "question": "Do you prefer coffee or tea?",
+        "answers": [
+            "I perfer drinking tea",
+            "He is a software engineer",
+            "I play soccer"
+        ],
+        "correctAnswer": "I perfer drinking tea"
+    },
+    {
+        "question": "What is your favorite animal?",
+        "answers": [
+            "She is a musician",
+            "I enjoy drinking tea",
+            "I adore elephants"
+        ],
+        "correctAnswer": "I adore elephants"
+    },
+    {
+        "question": "How do you handle conflicts?",
+        "answers": [
+            "He is a lawyer",
+            "I avoid conflicts at all costs",
+            "I try to find a compromise"
+        ],
+        "correctAnswer": "I try to find a compromise"
+    },
+    {
+        "question": "What is your favorite outdoor activity?",
+        "answers": [
+            "I enjoy hiking",
+            "She is a doctor",
+            "He has a beautiful dog"
+        ],
+        "correctAnswer": "I enjoy hiking"
+    },
+    {
+        "question": "What is your favorite holiday?",
+        "answers": [
+            "I love Christmas",
+            "He is a teacher",
+            "He went to the doctor"
+        ],
+        "correctAnswer": "I love Christmas"
+    },
+    {
+        "question": "How do you express your creativity?",
+        "answers": [
+            "I enjoy writing stories",
+            "She is an artist",
+            "I ate lunch"
+        ],
+        "correctAnswer": "I enjoy writing stories"
+    },
+    {
+        "question": "What is your favorite sports team?",
+        "answers": [
+            "I support the Manchester United",
+            "He is a football player",
+            "She is a student"
+        ],
+        "correctAnswer": "I support the Manchester United"
+    },
+    {
+        "question": "Do you enjoy going to concerts?",
+        "answers": [
+            "I love attending live music performances",
+            "She is a nurse",
+            "I played soccer"
+        ],
+        "correctAnswer": "I love attending live music performances"
+    },
+    {
+        "question": "What is your favorite type of exercise?",
+        "answers": [
+            "I enjoy practicing yoga",
+            "He is a personal trainer",
+            "She wore a green dress"
+        ],
+        "correctAnswer": "I enjoy practicing yoga"
+    },
+    {
+        "question": "How do you handle setbacks?",
+        "answers": [
+            "I see them as opportunities for growth",
+            "She is a scientist",
+            "I easily get discouraged"
+        ],
+        "correctAnswer": "I see them as opportunities for growth"
+    },
+    {
+        "question": "What is your favorite TV show?",
+        "answers": [
+            "I enjoy watching Friends",
+            "He is a journalist",
+            "I have a laptop"
+        ],
+        "correctAnswer": "I enjoy watching Friends"
+    },
+    {
+        "question": "Do you prefer city life or country life?",
+        "answers": [
+            "I love the hustle and bustle of the city",
+            "She is a veterinarian",
+            "what is happening?"
+        ],
+        "correctAnswer": "I love the hustle and bustle of the city"
+    },
+    {
+        "question": "What is your favorite dessert?",
+        "answers": [
+            "I have a sweet tooth for chocolate cake",
+            "He is a chef",
+            "She went to the beach"
+        ],
+        "correctAnswer": "I have a sweet tooth for chocolate cake"
+    },
+    {
+        "question": "How do you start your day?",
+        "answers": [
+            "I like to have a cup of coffee",
+            "She is a business owner",
+            "He is our boss"
+        ],
+        "correctAnswer": "I like to have a cup of coffee"
+    },
+    {
+        "question": "What is your favorite form of art?",
+        "answers": [
+            "I appreciate classical music",
+            "He is a musician",
+            "He went to the party"
+        ],
+        "correctAnswer": "I appreciate classical music"
+    },
+    {
+        "question": "Do you enjoy gardening?",
+        "answers": [
+            "I find gardening therapeutic",
+            "She is a botanist",
+            "He is a good boy"
+        ],
+        "correctAnswer": "I find gardening therapeutic"
+    },
+    {
+        "question": "What is your favorite type of cuisine?",
+        "answers": [
+            "I love Italian food",
+            "He is a food critic",
+            "She is a dancer"
+        ],
+        "correctAnswer": "I love Italian food"
+    },
+    {
+        "question": "How do you handle time management?",
+        "answers": [
+            "I like to create to-do lists",
+            "She is a project manager",
+            "She is working hard"
+        ],
+        "correctAnswer": "I like to create to-do lists"
+    },
+    {
+        "question": "What is your favorite season?",
+        "answers": [
+            "I enjoy the vibrant colors of autumn",
+            "He is an artist",
+            "I play basketball"
+        ],
+        "correctAnswer": "I enjoy the vibrant colors of autumn"
+    },
+    {
+        "question": "Do you enjoy volunteering?",
+        "answers": [
+            "I find fulfillment in helping others",
+            "She is a social worker",
+            "She went to grab  a drink"
+        ],
+        "correctAnswer": "I find fulfillment in helping others"
+    },
+    {
+        "question": "What is your favorite form of exercise?",
+        "answers": [
+            "I enjoy swimming",
+            "He is a lifeguard",
+            "She won the award"
+        ],
+        "correctAnswer": "I enjoy swimming"
+    },
+    {
+        "question": "How do you unwind after a long day?",
+        "answers": [
+            "I like to read a good book",
+            "She is a librarian",
+            "He is a good student"
+        ],
+        "correctAnswer": "I like to read a good book"
+    },
+    {
+        "question": "What is your favorite type of weather?",
+        "answers": [
+            "I love sunny days",
+            "He is a meteorologist",
+            "He plays soccer everyday"
+        ],
+        "correctAnswer": "I love sunny days"
+    },
+    {
+        "question": "Do you enjoy going to museums?",
+        "answers": [
+            "I find museums fascinating",
+            "She is an art historian",
+            "She is an artist"
+        ],
+        "correctAnswer": "I find museums fascinating"
+    },
+    {
+        "question": "What is your favorite type of cuisine?",
+        "answers": [
+            "I enjoy spicy Mexican food",
+            "He is a chef",
+            "We play together"
+        ],
+        "correctAnswer": "I enjoy spicy Mexican food"
+    },
+    {
+        "question": "How do you handle public speaking?",
+        "answers": [
+            "I feel confident and comfortable",
+            "She is a public speaker",
+            "He got extremely nervous"
+        ],
+        "correctAnswer": "I feel confident and comfortable"
+    },
+    {
+        "question": "What is your favorite type of music?",
+        "answers": [
+            "I love listening to classical music",
+            "He is a conductor",
+            "They went to the party"
+        ],
+        "correctAnswer": "I love listening to classical music"
+    },
+    {
+        "question": "Do you enjoy hiking?",
+        "answers": [
+            "I find hiking refreshing",
+            "She is a nature enthusiast",
+            "They are playing soccer"
+        ],
+        "correctAnswer": "I find hiking refreshing"
+    },
+    {
+        "question": "What is your favorite type of dessert?",
+        "answers": [
+            "I enjoy indulging in ice cream",
+            "He is a pastry chef",
+            "The weather is very nice"
+        ],
+        "correctAnswer": "I enjoy indulging in ice cream"
+    },
+    {
+        "question": "How do you handle conflicts?",
+        "answers": [
+            "I try to find a peaceful resolution",
+            "She is a mediator",
+            "It is a cat"
+        ],
+        "correctAnswer": "I try to find a peaceful resolution"
+    },
+    {
+        "question": "What is your favorite hobby?",
+        "answers": [
+            "I enjoy playing musical instruments",
+            "He is a composer",
+            "They are playing"
+        ],
+        "correctAnswer": "I enjoy playing musical instruments"
+    },
+    {
+        "question": "What is your favorite holiday?",
+        "answers": [
+            "I love celebrating Halloween",
+            "She is a costume designer",
+            "It is a cat"
+        ],
+        "correctAnswer": "I love celebrating Halloween"
+    },
+    {
+        "question": "Do you enjoy watching sports?",
+        "answers": [
+            "I'm a fan of basketball",
+            "He is a sports commentator",
+            "They are singing"
+        ],
+        "correctAnswer": "I'm a fan of basketball"
+    },
+    {
+        "question": "What is your favorite type of art?",
+        "answers": [
+            "I appreciate abstract paintings",
+            "She is an art curator",
+            "The sky is blue"
+        ],
+        "correctAnswer": "I appreciate abstract paintings"
+    },
+    {
+        "question": "How do you handle stress?",
+        "answers": [
+            "I practice deep breathing exercises",
+            "He is a stress management coach",
+            "She is beautiful"
+        ],
+        "correctAnswer": "I practice deep breathing exercises"
+    },
+    {
+        "question": "What is your favorite color?",
+        "answers": [
+            "I love the color green",
+            "She is a fashion designer",
+            "The tea is warm"
+        ],
+        "correctAnswer": "I love the color green"
+    },
+    {
+        "question": "What is your favorite cuisine?",
+        "answers": [
+            "I enjoy eating Japanese food",
+            "He is a sushi chef",
+            "The cat is mine"
+        ],
+        "correctAnswer": "I enjoy eating Japanese food"
+    },
+    {
+        "question": "Do you enjoy playing video games?",
+        "answers": [
+            "I love playing action-adventure games",
+            "She is a game developer",
+            "The boy is jogging"
+        ],
+        "correctAnswer": "I love playing action-adventure games"
+    },
+    {
+        "question": "What is your favorite season?",
+        "answers": [
+            "I enjoy the blooming flowers of spring",
+            "He is a botanist",
+            "She is a good soccer player"
+        ],
+        "correctAnswer": "I enjoy the blooming flowers of spring"
+    },
+    {
+        "question": "What is your favorite type of book?",
+        "answers": [
+            "I love reading fantasy novels",
+            "She is an author",
+            "She went camping"
+        ],
+        "correctAnswer": "I love reading fantasy novels"
+    },
+    {
+        "question": "What is your favorite TV show?",
+        "answers": [
+            "I enjoy watching sitcoms",
+            "She is a television producer",
+            "The radio is not working"
+        ],
+        "correctAnswer": "I enjoy watching sitcoms"
+    },
+    {
+        "question": "Do you prefer beach vacations or mountain vacations?",
+        "answers": [
+            "I love relaxing on the beach",
+            "He is a travel agent",
+            "They love cats"
+        ],
+        "correctAnswer": "I love relaxing on the beach"
+    },
+    {
+        "question": "What is your favorite type of dessert?",
+        "answers": [
+            "I enjoy indulging in chocolate cake",
+            "She is a pastry chef",
+            "She is a doctor"
+        ],
+        "correctAnswer": "I enjoy indulging in chocolate cake"
+    },
+    {
+        "question": "How do you handle failure?",
+        "answers": [
+            "I see it as an opportunity to learn",
+            "He is an entrepreneur",
+            "They  are leaving now"
+        ],
+        "correctAnswer": "I see it as an opportunity to learn"
+    },
+    {
+        "question": "What is your favorite animal?",
+        "answers": [
+            "I love dogs",
+            "She is a veterinarian",
+            "He is a good guy"
+        ],
+        "correctAnswer": "I love dogs"
+    },
+    {
+        "question": "Do you enjoy cooking?",
+        "answers": [
+            "I love experimenting with new recipes",
+            "He is a chef",
+            "The food is good"
+        ],
+        "correctAnswer": "I love experimenting with new recipes"
+    },
+    {
+        "question": "What is your favorite hobby?",
+        "answers": [
+            "I enjoy playing the guitar",
+            "He is a musician",
+            "He went to the beach"
+        ],
+        "correctAnswer": "I enjoy playing the guitar"
+    },
+    {
+        "question": "How do you spend your weekends?",
+        "answers": [
+            "I like to relax and catch up on movies",
+            "She is a film critic",
+            "He is very rich"
+        ],
+        "correctAnswer": "I like to relax and catch up on movies"
+    },
+    {
+        "question": "What is your favorite type of music?",
+        "answers": [
+            "I enjoy listening to jazz",
+            "He is a saxophonist",
+            "I am hungry"
+        ],
+        "correctAnswer": "I enjoy listening to jazz"
+    },
+    {
+        "question": "Do you prefer indoor activities or outdoor activities?",
+        "answers": [
+            "I prefer indoor activities",
+            "She is a bookworm",
+            "He went to his cousin's house"
+        ],
+        "correctAnswer": "I prefer indoor activities"
+    },
+    {
+        "question": "What is your favorite type of cuisine?",
+        "answers": [
+            "I love eating Thai food",
+            "He is a food blogger",
+            "I don't have a preference"
+        ],
+        "correctAnswer": "I love eating Thai food"
+    },
+    {
+        "question": "How do you handle stress?",
+        "answers": [
+            "I practice meditation",
+            "She is a yoga instructor",
+            "I get overwhelmed easily"
+        ],
+        "correctAnswer": "I practice meditation"
+    },
+    {
+        "question": "What is your favorite type of movie?",
+        "answers": [
+            "I enjoy watching romantic comedies",
+            "He is a film director",
+            "I don't watch movies"
+        ],
+        "correctAnswer": "I enjoy watching romantic comedies"
+    },
+    {
+        "question": "Do you enjoy traveling?",
+        "answers": [
+            "I love exploring new places",
+            "She is a travel blogger",
+            "I prefer staying at home"
+        ],
+        "correctAnswer": "I love exploring new places"
+    },
+    {
+        "question": "What is your favorite type of art?",
+        "answers": [
+            "I appreciate contemporary art",
+            "He is an art curator",
+            "I don't understand art"
+        ],
+        "correctAnswer": "I appreciate contemporary art"
+    },
+    {
+        "question": "How do you handle criticism?",
+        "answers": [
+            "I use it as an opportunity to improve",
+            "She is a writer",
+            "I take it personally"
+        ],
+        "correctAnswer": "I use it as an opportunity to improve"
+    },
+    {
+        "question": "What is your favorite type of weather?",
+        "answers": [
+            "I love sunny and warm weather",
+            "He is a beach resort owner",
+            "I play soccer"
+        ],
+        "correctAnswer": "I love sunny and warm weather"
+    },
+    {
+        "question": "Do you enjoy attending live performances?",
+        "answers": [
+            "I love watching live theater",
+            "She is an actress",
+            "I prefer staying at home"
+        ],
+        "correctAnswer": "I love watching live theater"
+    },
+    {
+        "question": "What is your favorite form of exercise?",
+        "answers": [
+            "I enjoy practicing martial arts",
+            "He is a martial arts instructor",
+            "She will visit us tomorrow"
+        ],
+        "correctAnswer": "I enjoy practicing martial arts"
+    },
+    {
+        "question": "How do you handle challenges?",
+        "answers": [
+            "I approach them with determination",
+            "She is a motivational speaker",
+            "I do not read"
+        ],
+        "correctAnswer": "I approach them with determination"
+    },
+    {
+        "question": "What is your favorite TV show?",
+        "answers": [
+            "I enjoy watching crime dramas",
+            "He is a detective",
+            "I heard the bird this morning"
+        ],
+        "correctAnswer": "I enjoy watching crime dramas"
+    },
+    {
+        "question": "Do you prefer city life or country life?",
+        "answers": [
+            "I love walking",
+            "She is a city planner",
+            "I prefer the tranquility of the countryside"
+        ],
+        "correctAnswer": "I prefer the tranquility of the countryside"
+    },
+    {
+        "question": "What is your favorite type of cuisine?",
+        "answers": [
+            "I enjoy eating Indian food",
+            "He is a chef",
+            "I like working out"
+        ],
+        "correctAnswer": "I enjoy eating Indian food"
+    },
+    {
+        "question": "How do you handle procrastination?",
+        "answers": [
+            "I break tasks into smaller steps",
+            "She is a productivity coach",
+            "I saw a cat yesterday"
+        ],
+        "correctAnswer": "I break tasks into smaller steps"
+    },
+    {
+        "question": "What is your favorite animal?",
+        "answers": [
+            "I love dolphins",
+            "He is a marine biologist",
+            "She is the boss"
+        ],
+        "correctAnswer": "I love dolphins"
+    },
+    {
+        "question": "Do you enjoy cooking?",
+        "answers": [
+            "I find joy in experimenting with new recipes",
+            "She is a chef",
+            "I booked an appiontment"
+        ],
+        "correctAnswer": "I find joy in experimenting with new recipes"
+    },
+    {
+        "question": "What is your favorite form of exercise?",
+        "answers": [
+            "I enjoy practicing yoga",
+            "He is a yoga instructor",
+            "I meet the professor"
+        ],
+        "correctAnswer": "I enjoy practicing yoga"
+    },
+    {
+        "question": "What is your favorite hobby?",
+        "answers": [
+            "I love photography",
+            "She is a professional photographer",
+            "He played soccer"
+        ],
+        "correctAnswer": "I love photography"
+    },
+    {
+        "question": "How do you spend your weekends?",
+        "answers": [
+            "I like to go hiking",
+            "He is a nature enthusiast",
+            "I don't know are are you talking about"
+        ],
+        "correctAnswer": "I like to go hiking"
+    },
+    {
+        "question": "What is your favorite type of music?",
+        "answers": [
+            "I enjoy listening to rock music",
+            "She is a guitarist",
+            "I watch movies"
+        ],
+        "correctAnswer": "I enjoy listening to rock music"
+    },
+    {
+        "question": "Do you prefer books or movies?",
+        "answers": [
+            "I prefer reading books",
+            "He is a writer",
+            "She came yesterday"
+        ],
+        "correctAnswer": "I prefer reading books"
+    },
+    {
+        "question": "What is your favorite type of cuisine?",
+        "answers": [
+            "I love eating Korean food",
+            "She is a food blogger",
+            "I don't watch movies"
+        ],
+        "correctAnswer": "I love eating Korean food"
+    },
+    {
+        "question": "How do you handle stress?",
+        "answers": [
+            "I practice mindfulness and meditation",
+            "He is a stress management coach",
+            "I got overwhelmed yesterday"
+        ],
+        "correctAnswer": "I practice mindfulness and meditation"
+    },
+    {
+        "question": "What is your favorite type of movie?",
+        "answers": [
+            "I enjoy watching sci-fi movies",
+            "She is a film director",
+            "I like typing"
+        ],
+        "correctAnswer": "I enjoy watching sci-fi movies"
+    },
+    {
+        "question": "How would you approach someone at the gym to ask for guidance on using a specific exercise machine?",
+        "answers": ["Excuse me, could you show me how to use this machine?", "She is a fitness instructor", "I like playing guitar"],
+        "correctAnswer": "Excuse me, could you show me how to use this machine?"
+    },
+    {
+        "question": "What would you say to a fellow gym-goer to ask if you can share a weightlifting bench?",
+        "answers": ["Is it okay if I share this bench with you?", "He is a personal trainer", "I enjoy painting"],
+        "correctAnswer": "Is it okay if I share this bench with you?"
+    },
+    {
+        "question": "How would you ask a trainer at the gym for advice on a proper stretching routine?",
+        "answers": ["Excuse me, do you have any recommendations for a stretching routine?", "She is a nutritionist", "I like watching TV"],
+        "correctAnswer": "Excuse me, do you have any recommendations for a stretching routine?"
+    },
+    {
+        "question": "What would you say to a fellow swimmer at the pool to ask if you can join them in a lane?",
+        "answers": ["May I swim with you in this lane?", "He is a lifeguard", "I enjoy gardening"],
+        "correctAnswer": "May I swim with you in this lane?"
+    },
+    {
+        "question": "How would you approach someone at a coffee shop to ask if the seat next to them is taken?",
+        "answers": ["Excuse me, is this seat available?", "She is a barista", "I like playing piano"],
+        "correctAnswer": "Excuse me, is this seat available?"
+    },
+    {
+        "question": "What would you say to a waiter at a restaurant to request the menu?",
+        "answers": ["Could I have the menu, please?", "He is a chef", "I enjoy hiking"],
+        "correctAnswer": "Could I have the menu, please?"
+    },
+    {
+        "question": "How would you ask a fellow student at a library if the seat opposite them is vacant?",
+        "answers": ["Is anyone sitting here?", "She is a librarian", "I love blue"],
+        "correctAnswer": "Is anyone sitting here?"
+    },
+    {
+        "question": "What would you say to a receptionist at a hotel to inquire about the availability of rooms?",
+        "answers": ["Do you have any available rooms?", "He is a tour guide", "Yes, I love going to the beach"],
+        "correctAnswer": "Do you have any available rooms?"
+    },
+    {
+        "question": "How would you politely ask a stranger on the street for directions to a nearby park?",
+        "answers": ["Excuse me, could you please tell me how to get to the park?", "She is a travel agent", "I enjoy photography"],
+        "correctAnswer": "Excuse me, could you please tell me how to get to the park?"
+    },
+    {
+        "question": "What would you say to a customer service representative on the phone to report a problem with your internet connection?",
+        "answers": ["I'm experiencing issues with my internet connection", "He is a customer support agent", "I prefer tea"],
+        "correctAnswer": "I'm experiencing issues with my internet connection"
+    },
+    {
+      "question": "How would you ask a store employee for assistance in finding a specific product?",
+      "answers": ["Excuse me, can you help me find this product?", "She is a cashier", "I enjoy playing soccer"],
+      "correctAnswer": "Excuse me, can you help me find this product?"
+    },
+    {
+      "question": "What would you say to a neighbor to introduce yourself for the first time?",
+      "answers": ["Hi, I'm [Your Name]. Nice to meet you!", "He is a plumber", "I like reading books"],
+      "correctAnswer": "Hi, I'm [Your Name]. Nice to meet you!"
+    },
+    {
+      "question": "How would you ask a colleague for assistance with a work-related task?",
+      "answers": ["Hey, could you help me with this task?", "She is a manager", "I enjoy cooking"],
+      "correctAnswer": "Hey, could you help me with this task?"
+    },
+    {
+      "question": "What would you say to a friend to invite them to a movie night at your place?",
+      "answers": ["Hey, would you like to come over for a movie night?", "He is a doctor", "I like listening to music"],
+      "correctAnswer": "Hey, would you like to come over for a movie night?"
+    },
+    {
+      "question": "How would you ask a coworker to borrow a pen?",
+      "answers": ["Excuse me, can I borrow a pen from you?", "She is an accountant", "I enjoy playing chess"],
+      "correctAnswer": "Excuse me, can I borrow a pen from you?"
+    },
+    {
+      "question": "What would you say to a family member to express gratitude for their help?",
+      "answers": ["Thank you so much for your help!", "He is a teacher", "I like going for walks"],
+      "correctAnswer": "Thank you so much for your help!"
+    },
+    {
+      "question": "How would you ask a salesperson about the return policy of a product?",
+      "answers": ["Excuse me, could you please explain the return policy for this product?", "She is a sales representative", "I enjoy swimming"],
+      "correctAnswer": "Excuse me, could you please explain the return policy for this product?"
+    },
+    {
+      "question": "What would you say to a classmate to request their notes from a missed lecture?",
+      "answers": ["Hey, could I borrow your notes from the last class?", "He is an engineer", "I like playing video games"],
+      "correctAnswer": "Hey, could I borrow your notes from the last class?"
+    },
+    {
+      "question": "How would you ask a friend to recommend a good book to read?",
+      "answers": ["Hey, do you have any book recommendations?", "She is a writer", "I enjoy painting"],
+      "correctAnswer": "Hey, do you have any book recommendations?"
+    },
+    {
+      "question": "What would you say to a coworker to congratulate them on their promotion?",
+      "answers": ["Congratulations on your promotion!", "He is a software developer", "I like going to the movies"],
+      "correctAnswer": "Congratulations on your promotion!"
+    },
+    {
+      "question": "How would you ask a waiter for the bill at a restaurant?",
+      "answers": ["Excuse me, could we have the bill, please?", "She is a chef", "I enjoy hiking"],
+      "correctAnswer": "Excuse me, could we have the bill, please?"
+    },
+    {
+      "question": "What would you say to a friend to offer help with their moving process?",
+      "answers": ["Hey, do you need any help with your move?", "He is a musician", "I like playing basketball"],
+      "correctAnswer": "Hey, do you need any help with your move?"
+    },
+    {
+      "question": "How would you ask a coworker to join you for lunch?",
+      "answers": ["Hey, would you like to grab lunch together?", "She is a graphic designer", "I enjoy cooking"],
+      "correctAnswer": "Hey, would you like to grab lunch together?"
+    },
+    {
+      "question": "What would you say to a friend to apologize for canceling plans?",
+      "answers": ["I'm really sorry, but I have to cancel our plans.", "He is a photographer", "I like playing tennis"],
+      "correctAnswer": "I'm really sorry, but I have to cancel our plans."
+    },
+    {
+      "question": "How would you ask a teacher for clarification on a homework assignment?",
+      "answers": ["Excuse me, could you please explain the homework assignment again?", "She is a professor", "I enjoy traveling"],
+      "correctAnswer": "Excuse me, could you please explain the homework assignment again?"
+    },
+    {
+      "question": "What would you say to a coworker to offer assistance with a project they are working on?",
+      "answers": ["Hey, do you need any help with the project?", "He is a marketer", "I like playing the guitar"],
+      "correctAnswer": "Hey, do you need any help with the project?"
+    },
+    {
+      "question": "How would you ask a friend to lend you their car for a day?",
+      "answers": ["Hey, would it be possible to borrow your car for a day?", "She is a lawyer", "I enjoy hiking"],
+      "correctAnswer": "Hey, would it be possible to borrow your car for a day?"
+    },
+    {
+      "question": "What would you say to a neighbor to invite them to a neighborhood barbecue?",
+      "answers": ["Hey, we're having a neighborhood barbecue. Would you like to join?", "He is a real estate agent", "I like reading books"],
+      "correctAnswer": "Hey, we're having a neighborhood barbecue. Would you like to join?"
+    },
+    {
+      "question": "How would you ask a colleague for feedback on a presentation you recently gave?",
+      "answers": ["Hey, could you please provide feedback on my presentation?", "She is a project manager", "I enjoy playing soccer"],
+      "correctAnswer": "Hey, could you please provide feedback on my presentation?"
+    },
+    {
+      "question": "What would you say to a friend to offer condolences for their loss?",
+      "answers": ["I'm so sorry for your loss. My thoughts are with you.", "He is a social worker", "I like listening to music"],
+      "correctAnswer": "I'm so sorry for your loss. My thoughts are with you."
+    },
+    {
+      "question": "How would you ask a coworker for their opinion on a new office policy?",
+      "answers": ["Hey, what are your thoughts on the new office policy?", "She is a human resources manager", "I enjoy cooking"],
+      "correctAnswer": "Hey, what are your thoughts on the new office policy?"
+    },
+    {
+      "question": "How would you greet someone you meet for the first time?",
+      "answers": ["Hello, nice to meet you!", "She is a teacher", "I enjoy playing soccer"],
+      "correctAnswer": "Hello, nice to meet you!"
+    },
+    {
+      "question": "What would you say to ask for directions to a nearby cafe?",
+      "answers": ["Excuse me, can you tell me how to get to the nearest cafe?", "He is a doctor", "I like reading books"],
+      "correctAnswer": "Excuse me, can you tell me how to get to the nearest cafe?"
+    },
+    {
+      "question": "How would you order a coffee at a cafe?",
+      "answers": ["I'd like a black coffee, please.", "She is a lawyer", "I enjoy cooking"],
+      "correctAnswer": "I'd like a black coffee, please."
+    },
+    {
+      "question": "What would you say to ask a coworker for assistance with a task?",
+      "answers": ["Hey, could you help me with this task?", "He is a software engineer", "I like listening to music"],
+      "correctAnswer": "Hey, could you help me with this task?"
+    },
+    {
+      "question": "How would you ask for recommendations for a good restaurant in the area?",
+      "answers": ["Hi, can you recommend a good restaurant nearby?", "She is a graphic designer", "I enjoy painting"],
+      "correctAnswer": "Hi, can you recommend a good restaurant nearby?"
+    },
+    {
+      "question": "What would you say to apologize for being late to a meeting?",
+      "answers": ["I'm sorry I'm late. Traffic was really bad.", "He is a salesperson", "I like going to the movies"],
+      "correctAnswer": "I'm sorry I'm late. Traffic was really bad."
+    },
+    {
+      "question": "How would you ask a friend about their weekend plans?",
+      "answers": ["Hey, what are your plans for the weekend?", "She is a nurse", "I enjoy hiking"],
+      "correctAnswer": "Hey, what are your plans for the weekend?"
+    },
+    {
+      "question": "What would you say to offer assistance to someone carrying heavy grocery bags?",
+      "answers": ["Can I help you with those bags?", "He is an accountant", "I like playing basketball"],
+      "correctAnswer": "Can I help you with those bags?"
+    },
+    {
+      "question": "How would you ask a colleague if they would like to grab lunch together?",
+      "answers": ["Hey, do you want to grab lunch together?", "She is an engineer", "I enjoy cooking"],
+      "correctAnswer": "Hey, do you want to grab lunch together?"
+    },
+    {
+      "question": "What would you say to request more information about a product from a salesperson?",
+      "answers": ["Excuse me, could you tell me more about this product?", "He is a manager", "I like playing tennis"],
+      "correctAnswer": "Excuse me, could you tell me more about this product?"
+    },
+    {
+      "question": "How would you thank someone for holding the door open for you?",
+      "answers": ["Thank you for holding the door!", "She is a musician", "I enjoy swimming"],
+      "correctAnswer": "Thank you for holding the door!"
+    },
+    {
+      "question": "What would you say to apologize for forgetting someone's name?",
+      "answers": ["I'm sorry, I'm really bad with names. What was your name again?", "He is a writer", "I like painting"],
+      "correctAnswer": "I'm sorry, I'm really bad with names. What was your name again?"
+    },
+    {
+      "question": "How would you ask a neighbor to lower the volume of their music?",
+      "answers": ["Hi, would you mind turning down the music a bit?", "She is a pharmacist", "I enjoy playing the piano"],
+      "correctAnswer": "Hi, would you mind turning down the music a bit?"
+    },
+    {
+      "question": "What would you say to invite a friend to a movie night at your place?",
+      "answers": ["Hey, do you want to come over for a movie night?", "He is a teacher", "I like playing soccer"],
+      "correctAnswer": "Hey, do you want to come over for a movie night?"
+    },
+    {
+      "question": "How would you ask a coworker about their recent vacation?",
+      "answers": ["Hey, how was your vacation?", "She is a chef", "I enjoy hiking"],
+      "correctAnswer": "Hey, how was your vacation?"
+    },
+    {
+      "question": "What would you say to express sympathy to a friend who is going through a tough time?",
+      "answers": ["I'm really sorry to hear that. Is there anything I can do to help?", "He is an artist", "I like reading books"],
+      "correctAnswer": "I'm really sorry to hear that. Is there anything I can do to help?"
+    },
+    {
+      "question": "How would you ask a shop assistant if they have a specific item in stock?",
+      "answers": ["Excuse me, do you have this item in stock?", "She is a photographer", "I enjoy playing the guitar"],
+      "correctAnswer": "Excuse me, do you have this item in stock?"
+    },
+    {
+      "question": "What would you say to congratulate a friend on their promotion?",
+      "answers": ["Congratulations on your promotion! You deserve it.", "He is a doctor", "I like swimming"],
+      "correctAnswer": "Congratulations on your promotion! You deserve it."
+    },
+    {
+      "question": "How would you ask a classmate for help with a difficult homework problem?",
+      "answers": ["Hey, could you help me with this homework problem?", "She is a lawyer", "I enjoy cooking"],
+      "correctAnswer": "Hey, could you help me with this homework problem?"
+    },
+    {
+      "question": "What would you say to a friend to express admiration for their new haircut?",
+      "answers": ["Wow, your new haircut looks great!", "He is a software engineer", "I like playing the piano"],
+      "correctAnswer": "Wow, your new haircut looks great!"
+    },
+    {
+      "question": "How would you ask a friend if they would like to go for a hike this weekend?",
+      "answers": ["Hey, would you be interested in going for a hike this weekend?", "She is a teacher", "I enjoy playing soccer"],
+      "correctAnswer": "Hey, would you be interested in going for a hike this weekend?"
+    },
+    {
+      "question": "What would you say to inquire about the price of a product at a store?",
+      "answers": ["Excuse me, how much does this product cost?", "He is a doctor", "I like reading books"],
+      "correctAnswer": "Excuse me, how much does this product cost?"
+    },
+    {
+      "question": "How would you ask a neighbor if they could water your plants while you're away?",
+      "answers": ["Hi, would you mind watering my plants while I'm away?", "She is a graphic designer", "I enjoy painting"],
+      "correctAnswer": "Hi, would you mind watering my plants while I'm away?"
+    },
+    {
+      "question": "What would you say to inquire about the opening hours of a restaurant?",
+      "answers": ["Excuse me, what are the opening hours of this restaurant?", "He is a salesperson", "I like going to the movies"],
+      "correctAnswer": "Excuse me, what are the opening hours of this restaurant?"
+    },
+    {
+      "question": "How would you ask a coworker about their weekend plans?",
+      "answers": ["Hey, any plans for the weekend?", "She is a nurse", "I enjoy hiking"],
+      "correctAnswer": "Hey, any plans for the weekend?"
+    },
+    {
+      "question": "What would you say to ask a friend if they would like to join you for a shopping trip?",
+      "answers": ["Hey, want to go shopping together?", "He is an accountant", "I like playing basketball"],
+      "correctAnswer": "Hey, want to go shopping together?"
+    },
+    {
+      "question": "How would you ask a stranger for a recommendation on a good book to read?",
+      "answers": ["Excuse me, do you have any recommendations for a good book to read?", "She is an engineer", "I enjoy cooking"],
+      "correctAnswer": "Excuse me, do you have any recommendations for a good book to read?"
+    },
+    {
+      "question": "What would you say to thank a friend for inviting you to their birthday party?",
+      "answers": ["Thank you so much for inviting me to your birthday party!", "He is a manager", "I like playing tennis"],
+      "correctAnswer": "Thank you so much for inviting me to your birthday party!"
+    },
+    {
+      "question": "How would you ask a coworker if they would like to carpool to work?",
+      "answers": ["Hey, do you want to carpool to work?", "She is a musician", "I enjoy swimming"],
+      "correctAnswer": "Hey, do you want to carpool to work?"
+    },
+    {
+      "question": "What would you say to apologize for accidentally spilling coffee on someone's shirt?",
+      "answers": ["I'm so sorry for spilling coffee on your shirt!", "He is a writer", "I like painting"],
+      "correctAnswer": "I'm so sorry for spilling coffee on your shirt!"
+    },
+    {
+      "question": "How would you ask a neighbor if you could borrow their lawnmower for the weekend?",
+      "answers": ["Hi, would it be possible to borrow your lawnmower for the weekend?", "She is a pharmacist", "I enjoy playing the piano"],
+      "correctAnswer": "Hi, would it be possible to borrow your lawnmower for the weekend?"
+    },
+    {
+      "question": "What would you say to greet a friend you haven't seen in a while?",
+      "answers": ["Hey, long time no see! How have you been?", "He is a teacher", "I like playing soccer"],
+      "correctAnswer": "Hey, long time no see! How have you been?"
+    },
+    {
+      "question": "How would you ask a store employee for assistance in finding a specific product?",
+      "answers": ["Excuse me, could you help me find a specific product?", "She is a chef", "I enjoy hiking"],
+      "correctAnswer": "Excuse me, could you help me find a specific product?"
+    },
+    {
+      "question": "What would you say to congratulate a friend on their new job?",
+      "answers": ["Congratulations on your new job! That's fantastic news.", "He is an artist", "I like reading books"],
+      "correctAnswer": "Congratulations on your new job! That's fantastic news."
+    },
+    {
+      "question": "How would you ask a colleague for assistance with a work-related problem?",
+      "answers": ["Hey, could you help me with this work-related problem?", "She is a lawyer", "I enjoy cooking"],
+      "correctAnswer": "Hey, could you help me with this work-related problem?"
+    },
+    {
+      "question": "What would you say to compliment a friend on their recent achievement?",
+      "answers": ["Congratulations on your achievement! You did an amazing job.", "He is a software engineer", "I like playing the piano"],
+      "correctAnswer": "Congratulations on your achievement! You did an amazing job."
+    },
+    {
+      "question": "How would you ask a classmate if they want to study together for an upcoming exam?",
+      "answers": ["Hey, do you want to study together for the upcoming exam?", "She is a photographer", "I enjoy playing the guitar"],
+      "correctAnswer": "Hey, do you want to study together for the upcoming exam?"
+    },
+    {
+      "question": "What would you say to invite a friend to join you for a weekend getaway?",
+      "answers": ["Hey, want to join me for a weekend getaway? It'll be fun!", "He is a doctor", "I like swimming"],
+      "correctAnswer": "Hey, want to join me for a weekend getaway? It'll be fun!"
+    },
+    {
+      "question": "How would you ask a neighbor for a recommendation on a good local restaurant?",
+      "answers": ["Hi, do you have any recommendations for a good local restaurant?", "She is a graphic designer", "I enjoy painting"],
+      "correctAnswer": "Hi, do you have any recommendations for a good local restaurant?"
+    },
+    {
+      "question": "What would you say to apologize for forgetting someone's birthday?",
+      "answers": ["I'm so sorry I forgot your birthday! Happy belated birthday!", "He is a salesperson", "I like going to the movies"],
+      "correctAnswer": "I'm so sorry I forgot your birthday! Happy belated birthday!"
+    },
+    {
+    "question": "How do you greet someone you haven't seen in a long time?",
+    "answers": ["Hey! Long time no see! How have you been?", "She is a teacher", "I enjoy playing tennis"],
+    "correctAnswer": "Hey! Long time no see! How have you been?"
+    }
+]
+
+
